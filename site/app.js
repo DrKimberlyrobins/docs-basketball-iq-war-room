@@ -15,6 +15,7 @@ const logo = team => /^https:\/\//.test(team.logo) ? `<img src="${escape(team.lo
 const panel = (title, content) => `<section class="panel"><h3>${escape(title)}</h3>${content}</section>`;
 const table = (columns, rows, cls = '') => `<div class="scroll" tabindex="0" role="region" aria-label="${escape(columns[0])} table"><table class="${cls}"><thead><tr>${columns.map(col => `<th scope="col">${escape(col)}</th>`).join('')}</tr></thead><tbody>${rows.map(row => `<tr><th scope="row">${escape(row[0])}</th>${row.slice(1).map(value => `<td>${escape(value)}</td>`).join('')}</tr>`).join('')}</tbody></table></div>`;
 const pair = (game, values) => game.teams.map((team, idx) => `${escape(team.name)} ${escape(values[idx])}`).join(' · ');
+const scoreTotal = values => Array.isArray(values) && values.length===2 && values.every(v=>v!=null && Number.isFinite(Number(v))) ? values.join('–')+' ('+Math.round((Number(values[0])+Number(values[1]))*100)/100+')' : values?.join('–') ?? '—';
 const signed = number => number > 0 ? `+${number}` : String(number);
 
 function playerPanel(team) {
@@ -105,7 +106,7 @@ function render(board, history) {
   });
   const receipts = Object.values(history).sort((a,b) => b.tip.localeCompare(a.tip));
   $('records').innerHTML = table(['Matchup','Tip (CT)','Saved (CT)','1H forecast','Game forecast','Full final','Winner grade','ATS','Total'],
-    receipts.map(r => [r.names.join(' vs. '),new Intl.DateTimeFormat('en-CA',{timeZone:'America/Chicago'}).format(new Date(r.tip))+' '+formatTime(r.tip),formatTime(r.captured),r.projection.half.join('–'),r.projection.full.join('–'),r.grade?.final.join('–'),
+    receipts.map(r => [r.names.join(' vs. '),new Intl.DateTimeFormat('en-CA',{timeZone:'America/Chicago'}).format(new Date(r.tip))+' '+formatTime(r.tip),formatTime(r.captured),scoreTotal(r.projection.half),scoreTotal(r.projection.full),r.grade?.final.join('–'),
       r.grade?.winnerCorrect == null ? null : r.grade.winnerCorrect ? 'Correct' : 'Miss',r.grade?.spreadResult,r.grade?.totalResult]));
   $('methodology').innerHTML = `<p>${link('CBS schedule',board.scheduleSource)} · ${link('Bart Torvik team ratings',board.ratingSource)}. ESPN supplies the player box scores and final scores. RotoWire supplies depth-chart projections and availability where found. Availability remains unconfirmed unless a source explicitly confirms it.</p>
     <p>Player averages are per appearance in the available season box scores. Last-five logs run oldest to newest. Blank entries indicate no recorded appearance or an unavailable metric. Minutes blend recent and season minutes, with reduced weight for a player missing the previous game and zero minutes when reported out. Game-time-decision minutes assume the player participates.</p>
