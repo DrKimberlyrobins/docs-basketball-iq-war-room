@@ -9,6 +9,7 @@ on:
       - 'site/data/board.json'
       - 'site/data/history.json'
 permissions:
+  actions: read
   contents: write
   pages: write
   id-token: write
