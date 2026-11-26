@@ -50,7 +50,8 @@ def gather(root, day):
     teams = {t['id'] for e in slate['events'] for t in e['competitions'][0]['competitors']}
     ratings = download(root,'torvik.json',f'https://barttorvik.com/{season(day)}_team_results.json')
     if not ratings:
-        raise RuntimeError('No verified ratings feed')
+        print('Ratings feed unavailable. Refreshing lineup and results without new score projections.')
+        write_json(root/'torvik.json', [])
     for path in root.glob('rw*.html'):
         path.unlink()
     lineups = download(root,'rw.html',RW)

@@ -64,6 +64,7 @@ function scouting(game) {
 function show(game, history) {
   const receipt = history[game.id];
   const prediction = game.projection || receipt?.projection;
+  const forecastStamp = game.projection ? '' : receipt ? ' · Saved '+formatTime(receipt.captured) : '';
   const market = game.market || receipt?.market;
   const grade = receipt?.grade;
   const firstHalf = game.halfMarket || receipt?.halfMarket?.quote;
@@ -74,7 +75,7 @@ function show(game, history) {
     ${panel('Matchup comparison',table(['Category',...game.teams.map(t=>t.name),'Measure'],game.comparison.map(r=>[r.label,...r.values.map(v=>v==null?null:Math.round(v*10)/10),r.meaning])))}
     ${prediction ? panel('Independent projection',`<div class="score-grid"><div class="score">First half<strong>${pair(game,prediction.half)}</strong>Total ${prediction.halfTotal}</div>
     <div class="score">Full game<strong>${pair(game,prediction.full)}</strong>Total ${prediction.total} · ${escape(prediction.winner)}</div></div>
-    <p class="muted">About ${prediction.pace} possessions per team. ${prediction.margin<=2 ? 'The projected margin is two points or less and can flip with a single possession.' : 'Scoring depends on the projected minutes and the teams’ shot conversion.'}</p>`) : panel('Independent projection','No eligible forecast available.')}
+    <p class="muted">About ${prediction.pace} possessions per team${forecastStamp}. ${prediction.margin<=2 ? 'The projected margin is two points or less and can flip with a single possession.' : 'Scoring depends on the projected minutes and the teams’ shot conversion.'}</p>`) : panel('Independent projection','No eligible forecast available.')}
     ${market ? panel('Sportsbook comparison',`<p>${escape(market.provider)} via ESPN · observed ${formatTime(market.observed)}</p>
       <p>${pair(game,market.spread.map(signed))} · Full-game total ${market.total}</p>
       <p><strong>Model side</strong> ${market.side ? `${escape(market.side)} ${signed(market.spreadLine)} (${market.spreadGap}-point difference)` : 'Even at displayed precision'}</p>
