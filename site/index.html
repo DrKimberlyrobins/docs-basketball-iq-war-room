@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Doc’s Basketball IQ War Room</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+<header class="mast">
+  <div class="mast-inner">
+    <div><p id="league">Men’s college basketball</p><h1>Doc’s Basketball IQ War Room</h1></div>
+    <button id="print" type="button">Print matchup</button>
+  </div>
+</header>
+<main>
+  <section class="slate" aria-label="Schedule">
+    <h2 id="day">Schedule</h2>
+    <p id="asof" role="status">Loading pregame research…</p>
+    <nav id="games" aria-label="Matchups"></nav>
+  </section>
+  <article id="matchup" aria-live="polite"></article>
+  <details id="history"><summary>Pregame receipts and results</summary><div id="records"></div></details>
+  <details id="methods"><summary>Data sources and methods</summary><div id="methodology"></div></details>
+</main>
+</body>
+</html>
