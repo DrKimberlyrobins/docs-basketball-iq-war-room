@@ -193,6 +193,17 @@ def main():
     board=research.build()
     fresh=scoreboard(day.isoformat())
     stamp=datetime.now(timezone.utc)
+    fallback_path=DATA/'pregame'/f'{day.isoformat()}.json'
+    fallback=json.loads(fallback_path.read_text()) if fallback_path.exists() else {}
+    if fallback.get('date')==day.isoformat():
+        saved={g['id']:g for g in fallback.get('matchups',[])}
+        for game in board['matchups']:
+            prior=saved.get(game['id'])
+            if game['projection'] is None and prior and prior.get('projection') and stamp<datetime.fromisoformat(game['tip']):
+                game.update({k:prior[k] for k in ('projection','teams','comparison')})
+                game['projectionAsOf']=fallback['captured']
+                for team in game['teams']:
+                    team['alerts'].append('Ratings unavailable: projection retained from '+fallback['captured'])
     fresh_events={e['id']:e for e in fresh['events']}
     for game in board['matchups']:
         event=fresh_events.get(game['id'])
