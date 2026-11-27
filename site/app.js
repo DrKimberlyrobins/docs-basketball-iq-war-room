@@ -106,7 +106,7 @@ function render(board, history) {
   });
   const receipts = Object.values(history).sort((a,b) => b.tip.localeCompare(a.tip));
   $('records').innerHTML = table(['Matchup','Tip (CT)','Saved (CT)','1H forecast','Game forecast','Full final','Winner grade','ATS','Total'],
-    receipts.map(r => [r.names.join(' vs. '),new Intl.DateTimeFormat('en-CA',{timeZone:'America/Chicago'}).format(new Date(r.tip))+' '+formatTime(r.tip),formatTime(r.captured),scoreTotal(r.projection.half),scoreTotal(r.projection.full),r.grade?.final.join('–'),
+    receipts.map(r => [r.names.map((name, idx) => r.projection?.full?.[idx] != null ? `${name} (${r.projection.full[idx]})` : name).join(' vs. '),new Intl.DateTimeFormat('en-CA',{timeZone:'America/Chicago'}).format(new Date(r.tip))+' '+formatTime(r.tip),formatTime(r.captured),scoreTotal(r.projection.half),scoreTotal(r.projection.full),r.grade?.final.join('–'),
       r.grade?.winnerCorrect == null ? null : r.grade.winnerCorrect ? 'Correct' : 'Miss',r.grade?.spreadResult,r.grade?.totalResult]));
   $('methodology').innerHTML = `<p>${link('CBS schedule',board.scheduleSource)} · ${link('Bart Torvik team ratings',board.ratingSource)}. ESPN supplies the player box scores and final scores. RotoWire supplies depth-chart projections and availability where found. Availability remains unconfirmed unless a source explicitly confirms it.</p>
     <p>Player averages are per appearance in the available season box scores. Last-five logs run oldest to newest. Blank entries indicate no recorded appearance or an unavailable metric. Minutes blend recent and season minutes, with reduced weight for a player missing the previous game and zero minutes when reported out. Game-time-decision minutes assume the player participates.</p>
