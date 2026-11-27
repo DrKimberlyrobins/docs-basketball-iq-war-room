@@ -1673,6 +1673,24 @@
         37
       ],
       "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    },
+    "grade": {
+      "final": [
+        83,
+        71
+      ],
+      "half": [
+        42.0,
+        27.0
+      ],
+      "gameError": 5,
+      "halfError": 8.0,
+      "winnerCorrect": true,
+      "halfWinnerCorrect": true,
+      "spreadResult": "Win",
+      "totalResult": "Loss",
+      "halfSpreadResult": "Loss",
+      "halfTotalResult": "Loss"
     }
   },
   "401920848": {
@@ -2516,6 +2534,27 @@
       "spreadGap": 1.5,
       "totalDirection": "Under",
       "totalGap": 2.5
+    },
+    "halfMarket": {
+      "quote": {
+        "provider": "DraftKings",
+        "source": "https://madduxsports.com/college-basketball-lines-1st-half.php",
+        "observed": "2026-11-27T18:29:17.907733+00:00",
+        "spread": [
+          -5.5,
+          5.5
+        ],
+        "total": 70.5,
+        "sideIndex": 1,
+        "spreadGap": 1.5,
+        "totalDirection": "Over",
+        "totalGap": 1.5
+      },
+      "score": [
+        38,
+        34
+      ],
+      "projectedAt": "2026-11-27T18:29:14.775179+00:00"
     }
   },
   "401920774": {
@@ -2824,6 +2863,27 @@
       "spreadGap": 1.5,
       "totalDirection": "Over",
       "totalGap": 2.5
+    },
+    "halfMarket": {
+      "quote": {
+        "provider": "DraftKings",
+        "source": "https://madduxsports.com/college-basketball-lines-1st-half.php",
+        "observed": "2026-11-27T18:29:17.907733+00:00",
+        "spread": [
+          2.5,
+          -2.5
+        ],
+        "total": 67.5,
+        "sideIndex": 1,
+        "spreadGap": 1.5,
+        "totalDirection": "Over",
+        "totalGap": 2.5
+      },
+      "score": [
+        33,
+        37
+      ],
+      "projectedAt": "2026-11-27T18:29:14.775179+00:00"
     }
   },
   "401921718": {

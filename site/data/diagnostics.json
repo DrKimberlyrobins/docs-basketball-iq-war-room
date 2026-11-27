@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-27T15:11:49.786148+00:00",
+  "updated": "2026-11-27T18:29:18.183074+00:00",
   "games": {
     "401929281": {
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401929281",
       "sourceFile": "data/evidence/401929281.json",
-      "evidenceSavedAt": "2026-11-27T15:11:49.618398+00:00",
+      "evidenceSavedAt": "2026-11-27T18:29:17.971947+00:00",
       "date": "2026-11-26",
       "names": [
         "Georgia",
@@ -863,7 +863,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401912231",
       "sourceFile": "data/evidence/401912231.json",
-      "evidenceSavedAt": "2026-11-27T15:11:49.612398+00:00",
+      "evidenceSavedAt": "2026-11-27T18:29:17.971509+00:00",
       "date": "2026-11-26",
       "names": [
         "Army",
@@ -1805,7 +1805,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401906807",
       "sourceFile": "data/evidence/401906807.json",
-      "evidenceSavedAt": "2026-11-27T15:11:49.602952+00:00",
+      "evidenceSavedAt": "2026-11-27T18:29:17.983509+00:00",
       "date": "2026-11-26",
       "names": [
         "Oklahoma",
@@ -2635,7 +2635,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401920528",
       "sourceFile": "data/evidence/401920528.json",
-      "evidenceSavedAt": "2026-11-27T15:11:49.614398+00:00",
+      "evidenceSavedAt": "2026-11-27T18:29:17.999509+00:00",
       "date": "2026-11-26",
       "names": [
         "San Diego State",
@@ -3475,7 +3475,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401929282",
       "sourceFile": "data/evidence/401929282.json",
-      "evidenceSavedAt": "2026-11-27T15:11:49.614398+00:00",
+      "evidenceSavedAt": "2026-11-27T18:29:17.976193+00:00",
       "date": "2026-11-26",
       "names": [
         "Boston College",
@@ -4319,7 +4319,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401921674",
       "sourceFile": "data/evidence/401921674.json",
-      "evidenceSavedAt": "2026-11-27T15:11:49.617398+00:00",
+      "evidenceSavedAt": "2026-11-27T18:29:18.005509+00:00",
       "date": "2026-11-26",
       "names": [
         "South Carolina",
@@ -5101,7 +5101,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401906869",
       "sourceFile": "data/evidence/401906869.json",
-      "evidenceSavedAt": "2026-11-27T15:11:49.685398+00:00",
+      "evidenceSavedAt": "2026-11-27T18:29:17.998509+00:00",
       "date": "2026-11-26",
       "names": [
         "Georgetown",
@@ -5893,7 +5893,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401920529",
       "sourceFile": "data/evidence/401920529.json",
-      "evidenceSavedAt": "2026-11-27T15:11:49.622398+00:00",
+      "evidenceSavedAt": "2026-11-27T18:29:18.002509+00:00",
       "date": "2026-11-26",
       "names": [
         "Tennessee",
@@ -6719,7 +6719,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401920537",
       "sourceFile": "data/evidence/401920537.json",
-      "evidenceSavedAt": "2026-11-27T15:11:49.644398+00:00",
+      "evidenceSavedAt": "2026-11-27T18:29:18.006013+00:00",
       "date": "2026-11-26",
       "names": [
         "Miami",
@@ -7601,7 +7601,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401925757",
       "sourceFile": "data/evidence/401925757.json",
-      "evidenceSavedAt": "2026-11-27T15:11:49.673398+00:00",
+      "evidenceSavedAt": "2026-11-27T18:29:18.012498+00:00",
       "date": "2026-11-26",
       "names": [
         "Arkansas",
@@ -8435,7 +8435,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401921673",
       "sourceFile": "data/evidence/401921673.json",
-      "evidenceSavedAt": "2026-11-27T15:11:49.695398+00:00",
+      "evidenceSavedAt": "2026-11-27T18:29:18.037508+00:00",
       "date": "2026-11-26",
       "names": [
         "Utah State",
@@ -9217,7 +9217,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401917547",
       "sourceFile": "data/evidence/401917547.json",
-      "evidenceSavedAt": "2026-11-27T15:11:49.675398+00:00",
+      "evidenceSavedAt": "2026-11-27T18:29:18.017509+00:00",
       "date": "2026-11-26",
       "names": [
         "Saint Mary's",
@@ -9991,7 +9991,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401920538",
       "sourceFile": "data/evidence/401920538.json",
-      "evidenceSavedAt": "2026-11-27T15:11:49.710398+00:00",
+      "evidenceSavedAt": "2026-11-27T18:29:18.042509+00:00",
       "date": "2026-11-26",
       "names": [
         "TCU",
@@ -10807,7 +10807,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401918972",
       "sourceFile": "data/evidence/401918972.json",
-      "evidenceSavedAt": "2026-11-27T15:11:49.687398+00:00",
+      "evidenceSavedAt": "2026-11-27T18:29:18.052509+00:00",
       "date": "2026-11-26",
       "names": [
         "SMU",
@@ -11585,7 +11585,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401909506",
       "sourceFile": "data/evidence/401909506.json",
-      "evidenceSavedAt": "2026-11-27T15:11:49.710398+00:00",
+      "evidenceSavedAt": "2026-11-27T18:29:18.054509+00:00",
       "date": "2026-11-26",
       "names": [
         "DePaul",
@@ -12383,7 +12383,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401911523",
       "sourceFile": "data/evidence/401911523.json",
-      "evidenceSavedAt": "2026-11-27T15:11:49.695398+00:00",
+      "evidenceSavedAt": "2026-11-27T18:29:18.082509+00:00",
       "date": "2026-11-26",
       "names": [
         "Jacksonville State",
@@ -13175,7 +13175,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401920530",
       "sourceFile": "data/evidence/401920530.json",
-      "evidenceSavedAt": "2026-11-27T15:11:49.715303+00:00",
+      "evidenceSavedAt": "2026-11-27T18:29:18.054509+00:00",
       "date": "2026-11-26",
       "names": [
         "Louisville",
@@ -13957,7 +13957,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401920539",
       "sourceFile": "data/evidence/401920539.json",
-      "evidenceSavedAt": "2026-11-27T15:11:49.750398+00:00",
+      "evidenceSavedAt": "2026-11-27T18:29:18.058509+00:00",
       "date": "2026-11-26",
       "names": [
         "Alabama",
@@ -14795,7 +14795,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401917546",
       "sourceFile": "data/evidence/401917546.json",
-      "evidenceSavedAt": "2026-11-27T15:11:49.743398+00:00",
+      "evidenceSavedAt": "2026-11-27T18:29:18.086509+00:00",
       "date": "2026-11-26",
       "names": [
         "Pacific",
@@ -15583,7 +15583,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401920531",
       "sourceFile": "data/evidence/401920531.json",
-      "evidenceSavedAt": "2026-11-27T15:11:49.760398+00:00",
+      "evidenceSavedAt": "2026-11-27T18:29:18.104509+00:00",
       "date": "2026-11-26",
       "names": [
         "Texas Tech",
@@ -16389,7 +16389,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401920540",
       "sourceFile": "data/evidence/401920540.json",
-      "evidenceSavedAt": "2026-11-27T15:11:49.751398+00:00",
+      "evidenceSavedAt": "2026-11-27T18:29:18.111509+00:00",
       "date": "2026-11-26",
       "names": [
         "Baylor",
@@ -17164,23 +17164,917 @@
       "lineVerification": "Original book, line and observation timestamp preserved in receipt. Raw sportsbook response was not archived; independent quote authenticity remains unverified."
     },
     "401920429": {
-      "status": "Pregame; awaiting final",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401920429"
+      "status": "Verified final from ESPN",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401920429",
+      "sourceFile": "data/evidence/401920429.json",
+      "evidenceSavedAt": "2026-11-27T18:29:18.160206+00:00",
+      "date": "2026-11-27",
+      "names": [
+        "Virginia",
+        "Xavier"
+      ],
+      "receipt": {
+        "tip": "2026-11-27T16:00Z",
+        "captured": "2026-11-27T15:08:38.229203+00:00",
+        "names": [
+          "Virginia",
+          "Xavier"
+        ],
+        "projection": {
+          "full": [
+            83,
+            76
+          ],
+          "half": [
+            40,
+            37
+          ],
+          "pace": 72.0,
+          "total": 159,
+          "halfTotal": 77,
+          "margin": 7,
+          "winner": "Virginia"
+        },
+        "market": {
+          "provider": "DraftKings",
+          "observed": "2026-11-27T15:08:45.334038+00:00",
+          "spread": [
+            -6.5,
+            6.5
+          ],
+          "total": 155.5,
+          "side": "Virginia",
+          "sideIndex": 0,
+          "spreadLine": -6.5,
+          "spreadGap": 0.5,
+          "totalDirection": "Over",
+          "totalGap": 3.5
+        },
+        "halfMarket": {
+          "quote": {
+            "provider": "DraftKings",
+            "source": "https://madduxsports.com/college-basketball-lines-1st-half.php",
+            "observed": "2026-11-27T15:08:52.202749+00:00",
+            "spread": [
+              -3.5,
+              3.5
+            ],
+            "total": 74.5,
+            "sideIndex": 1,
+            "spreadGap": 0.5,
+            "totalDirection": "Over",
+            "totalGap": 2.5
+          },
+          "score": [
+            40,
+            37
+          ],
+          "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+        },
+        "grade": {
+          "final": [
+            83,
+            71
+          ],
+          "half": [
+            42.0,
+            27.0
+          ],
+          "gameError": 5,
+          "halfError": 8.0,
+          "winnerCorrect": true,
+          "halfWinnerCorrect": true,
+          "spreadResult": "Win",
+          "totalResult": "Loss",
+          "halfSpreadResult": "Loss",
+          "halfTotalResult": "Loss"
+        }
+      },
+      "grade": {
+        "final": [
+          83,
+          71
+        ],
+        "half": [
+          42.0,
+          27.0
+        ],
+        "gameError": 5,
+        "halfError": 8.0,
+        "winnerCorrect": true,
+        "halfWinnerCorrect": true,
+        "spreadResult": "Win",
+        "totalResult": "Loss",
+        "halfSpreadResult": "Loss",
+        "halfTotalResult": "Loss"
+      },
+      "teams": [
+        {
+          "name": "Virginia",
+          "stats": {
+            "fieldGoalsMade-fieldGoalsAttempted": "27-53",
+            "fieldGoalPct": "51",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "12-30",
+            "threePointFieldGoalPct": "40",
+            "freeThrowsMade-freeThrowsAttempted": "17-22",
+            "freeThrowPct": "77",
+            "totalRebounds": "46",
+            "offensiveRebounds": "12",
+            "defensiveRebounds": "34",
+            "assists": "19",
+            "steals": "4",
+            "blocks": "6",
+            "turnovers": "21",
+            "teamTurnovers": "3",
+            "totalTurnovers": "21",
+            "technicalFouls": "0",
+            "totalTechnicalFouls": "0",
+            "flagrantFouls": "0",
+            "turnoverPoints": "7",
+            "fastBreakPoints": "13",
+            "pointsInPaint": "26",
+            "fouls": "21",
+            "largestLead": "19",
+            "leadChanges": "0",
+            "leadPercentage": "94"
+          },
+          "players": [
+            {
+              "name": "Nolan Adekunle",
+              "starter": true,
+              "didNotPlay": false,
+              "actual": {
+                "MIN": "10",
+                "PTS": "3",
+                "FG": "1-2",
+                "3PT": "1-1",
+                "FT": "0-0",
+                "REB": "2",
+                "AST": "0",
+                "TO": "3",
+                "STL": "0",
+                "BLK": "0",
+                "OREB": "0",
+                "DREB": "2",
+                "PF": "3"
+              },
+              "projectedMinutes": 22.6,
+              "expectedStarter": true,
+              "pregameStatus": "Unconfirmed",
+              "minuteError": -12.6
+            },
+            {
+              "name": "Thijs De Ridder",
+              "starter": true,
+              "didNotPlay": false,
+              "actual": {
+                "MIN": "35",
+                "PTS": "14",
+                "FG": "5-12",
+                "3PT": "2-7",
+                "FT": "2-3",
+                "REB": "10",
+                "AST": "1",
+                "TO": "4",
+                "STL": "0",
+                "BLK": "0",
+                "OREB": "3",
+                "DREB": "7",
+                "PF": "3"
+              },
+              "projectedMinutes": 27.1,
+              "expectedStarter": true,
+              "pregameStatus": "Unconfirmed",
+              "minuteError": 7.9
+            },
+            {
+              "name": "Johann Grunloh",
+              "starter": true,
+              "didNotPlay": false,
+              "actual": {
+                "MIN": "20",
+                "PTS": "2",
+                "FG": "1-3",
+                "3PT": "0-2",
+                "FT": "0-0",
+                "REB": "3",
+                "AST": "1",
+                "TO": "1",
+                "STL": "0",
+                "BLK": "1",
+                "OREB": "0",
+                "DREB": "3",
+                "PF": "4"
+              },
+              "projectedMinutes": 31.0,
+              "expectedStarter": true,
+              "pregameStatus": "Unconfirmed",
+              "minuteError": -11.0
+            },
+            {
+              "name": "Sam Lewis",
+              "starter": true,
+              "didNotPlay": false,
+              "actual": {
+                "MIN": "34",
+                "PTS": "21",
+                "FG": "7-15",
+                "3PT": "3-7",
+                "FT": "4-5",
+                "REB": "8",
+                "AST": "4",
+                "TO": "2",
+                "STL": "2",
+                "BLK": "2",
+                "OREB": "1",
+                "DREB": "7",
+                "PF": "2"
+              },
+              "projectedMinutes": 27.1,
+              "expectedStarter": true,
+              "pregameStatus": "Unconfirmed",
+              "minuteError": 6.9
+            },
+            {
+              "name": "Chance Mallory",
+              "starter": true,
+              "didNotPlay": false,
+              "actual": {
+                "MIN": "34",
+                "PTS": "10",
+                "FG": "2-4",
+                "3PT": "2-3",
+                "FT": "4-4",
+                "REB": "8",
+                "AST": "9",
+                "TO": "5",
+                "STL": "0",
+                "BLK": "1",
+                "OREB": "3",
+                "DREB": "5",
+                "PF": "2"
+              },
+              "projectedMinutes": 28.2,
+              "expectedStarter": true,
+              "pregameStatus": "Unconfirmed",
+              "minuteError": 5.8
+            },
+            {
+              "name": "Kalu Anya",
+              "starter": false,
+              "didNotPlay": false,
+              "actual": {
+                "MIN": "20",
+                "PTS": "4",
+                "FG": "1-1",
+                "3PT": "0-0",
+                "FT": "2-4",
+                "REB": "5",
+                "AST": "1",
+                "TO": "2",
+                "STL": "1",
+                "BLK": "0",
+                "OREB": "2",
+                "DREB": "3",
+                "PF": "1"
+              },
+              "projectedMinutes": 9.8,
+              "expectedStarter": false,
+              "pregameStatus": "Unconfirmed",
+              "minuteError": 10.2
+            },
+            {
+              "name": "Nick Rotter",
+              "starter": false,
+              "didNotPlay": false,
+              "actual": {
+                "MIN": "-",
+                "PTS": "0",
+                "FG": "0-0",
+                "3PT": "0-0",
+                "FT": "0-0",
+                "REB": "0",
+                "AST": "0",
+                "TO": "0",
+                "STL": "0",
+                "BLK": "0",
+                "OREB": "0",
+                "DREB": "0",
+                "PF": "0"
+              },
+              "projectedMinutes": 0.9,
+              "expectedStarter": false,
+              "pregameStatus": "Unconfirmed",
+              "minuteError": null
+            },
+            {
+              "name": "Christian Harmon",
+              "starter": false,
+              "didNotPlay": false,
+              "actual": {
+                "MIN": "-",
+                "PTS": "0",
+                "FG": "0-0",
+                "3PT": "0-0",
+                "FT": "0-0",
+                "REB": "0",
+                "AST": "0",
+                "TO": "0",
+                "STL": "0",
+                "BLK": "0",
+                "OREB": "0",
+                "DREB": "0",
+                "PF": "0"
+              },
+              "projectedMinutes": 2.3,
+              "expectedStarter": false,
+              "pregameStatus": "Unconfirmed",
+              "minuteError": null
+            },
+            {
+              "name": "Martin Carrere",
+              "starter": false,
+              "didNotPlay": false,
+              "actual": {
+                "MIN": "1",
+                "PTS": "0",
+                "FG": "0-0",
+                "3PT": "0-0",
+                "FT": "0-0",
+                "REB": "0",
+                "AST": "1",
+                "TO": "0",
+                "STL": "0",
+                "BLK": "0",
+                "OREB": "0",
+                "DREB": "0",
+                "PF": "1"
+              },
+              "projectedMinutes": 11.6,
+              "expectedStarter": false,
+              "pregameStatus": "Unconfirmed",
+              "minuteError": -10.6
+            },
+            {
+              "name": "Jan Vide",
+              "starter": false,
+              "didNotPlay": false,
+              "actual": {
+                "MIN": "18",
+                "PTS": "12",
+                "FG": "4-4",
+                "3PT": "0-0",
+                "FT": "4-4",
+                "REB": "2",
+                "AST": "1",
+                "TO": "1",
+                "STL": "1",
+                "BLK": "1",
+                "OREB": "1",
+                "DREB": "1",
+                "PF": "2"
+              },
+              "projectedMinutes": 9.2,
+              "expectedStarter": false,
+              "pregameStatus": "Unconfirmed",
+              "minuteError": 8.8
+            },
+            {
+              "name": "Elijah Gertrude",
+              "starter": false,
+              "didNotPlay": false,
+              "actual": {
+                "MIN": "23",
+                "PTS": "17",
+                "FG": "6-11",
+                "3PT": "4-9",
+                "FT": "1-2",
+                "REB": "1",
+                "AST": "1",
+                "TO": "0",
+                "STL": "0",
+                "BLK": "1",
+                "OREB": "0",
+                "DREB": "1",
+                "PF": "3"
+              },
+              "projectedMinutes": 17.2,
+              "expectedStarter": false,
+              "pregameStatus": "Unconfirmed",
+              "minuteError": 5.8
+            },
+            {
+              "name": "Jurian Dixon",
+              "starter": false,
+              "didNotPlay": false,
+              "actual": {
+                "MIN": "4",
+                "PTS": "0",
+                "FG": "0-1",
+                "3PT": "0-1",
+                "FT": "0-0",
+                "REB": "0",
+                "AST": "0",
+                "TO": "0",
+                "STL": "0",
+                "BLK": "0",
+                "OREB": "0",
+                "DREB": "0",
+                "PF": "0"
+              },
+              "projectedMinutes": 3.8,
+              "expectedStarter": false,
+              "pregameStatus": "Unconfirmed",
+              "minuteError": 0.2
+            },
+            {
+              "name": "Silas Barksdale",
+              "starter": false,
+              "didNotPlay": true,
+              "actual": {},
+              "projectedMinutes": 2.1,
+              "expectedStarter": false,
+              "pregameStatus": "Unconfirmed",
+              "minuteError": null
+            },
+            {
+              "name": "Carter Lang",
+              "starter": false,
+              "didNotPlay": true,
+              "actual": {},
+              "projectedMinutes": 1.7,
+              "expectedStarter": false,
+              "pregameStatus": "Unconfirmed",
+              "minuteError": null
+            },
+            {
+              "name": "Favour Ibe",
+              "starter": false,
+              "didNotPlay": true,
+              "actual": {},
+              "projectedMinutes": 3.0,
+              "expectedStarter": false,
+              "pregameStatus": "Unconfirmed",
+              "minuteError": null
+            },
+            {
+              "name": "Quincy Watson",
+              "starter": false,
+              "didNotPlay": true,
+              "actual": {},
+              "projectedMinutes": 0.9,
+              "expectedStarter": false,
+              "pregameStatus": "Unconfirmed",
+              "minuteError": null
+            },
+            {
+              "name": "Owen Odom",
+              "starter": false,
+              "didNotPlay": true,
+              "actual": {},
+              "projectedMinutes": 1.6,
+              "expectedStarter": false,
+              "pregameStatus": "Unconfirmed",
+              "minuteError": null
+            },
+            {
+              "name": "Desmond Roberts",
+              "starter": false,
+              "didNotPlay": true,
+              "actual": {},
+              "projectedMinutes": null,
+              "expectedStarter": null,
+              "pregameStatus": null,
+              "minuteError": null
+            }
+          ],
+          "expectedStarters": [
+            "Johann Grunloh",
+            "Chance Mallory",
+            "Thijs De Ridder",
+            "Sam Lewis",
+            "Nolan Adekunle"
+          ],
+          "actualStarters": [
+            "Nolan Adekunle",
+            "Thijs De Ridder",
+            "Johann Grunloh",
+            "Sam Lewis",
+            "Chance Mallory"
+          ],
+          "possessionEstimate": 71.68,
+          "benchPoints": 33,
+          "availabilityFinding": "DNP alone does not establish injury. No independently verified unexpected absence recorded."
+        },
+        {
+          "name": "Xavier",
+          "stats": {
+            "fieldGoalsMade-fieldGoalsAttempted": "24-61",
+            "fieldGoalPct": "39",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "5-22",
+            "threePointFieldGoalPct": "23",
+            "freeThrowsMade-freeThrowsAttempted": "18-29",
+            "freeThrowPct": "62",
+            "totalRebounds": "26",
+            "offensiveRebounds": "9",
+            "defensiveRebounds": "17",
+            "assists": "11",
+            "steals": "15",
+            "blocks": "1",
+            "turnovers": "7",
+            "teamTurnovers": "1",
+            "totalTurnovers": "7",
+            "technicalFouls": "0",
+            "totalTechnicalFouls": "0",
+            "flagrantFouls": "0",
+            "turnoverPoints": "15",
+            "fastBreakPoints": "13",
+            "pointsInPaint": "30",
+            "fouls": "20",
+            "largestLead": "0",
+            "leadChanges": "0",
+            "leadPercentage": "0"
+          },
+          "players": [
+            {
+              "name": "Filip Borovicanin",
+              "starter": true,
+              "didNotPlay": false,
+              "actual": {
+                "MIN": "25",
+                "PTS": "8",
+                "FG": "3-9",
+                "3PT": "0-3",
+                "FT": "2-6",
+                "REB": "8",
+                "AST": "3",
+                "TO": "0",
+                "STL": "3",
+                "BLK": "0",
+                "OREB": "2",
+                "DREB": "6",
+                "PF": "2"
+              },
+              "projectedMinutes": 24.9,
+              "expectedStarter": true,
+              "pregameStatus": "Unconfirmed",
+              "minuteError": 0.1
+            },
+            {
+              "name": "Jovan Milicevic",
+              "starter": true,
+              "didNotPlay": false,
+              "actual": {
+                "MIN": "23",
+                "PTS": "2",
+                "FG": "1-6",
+                "3PT": "0-4",
+                "FT": "0-0",
+                "REB": "1",
+                "AST": "0",
+                "TO": "0",
+                "STL": "1",
+                "BLK": "0",
+                "OREB": "0",
+                "DREB": "1",
+                "PF": "3"
+              },
+              "projectedMinutes": 24.5,
+              "expectedStarter": true,
+              "pregameStatus": "Unconfirmed",
+              "minuteError": -1.5
+            },
+            {
+              "name": "Mike Nwoko",
+              "starter": true,
+              "didNotPlay": false,
+              "actual": {
+                "MIN": "20",
+                "PTS": "15",
+                "FG": "4-7",
+                "3PT": "0-1",
+                "FT": "7-10",
+                "REB": "4",
+                "AST": "1",
+                "TO": "0",
+                "STL": "2",
+                "BLK": "0",
+                "OREB": "3",
+                "DREB": "1",
+                "PF": "4"
+              },
+              "projectedMinutes": 22.5,
+              "expectedStarter": true,
+              "pregameStatus": "Unconfirmed",
+              "minuteError": -2.5
+            },
+            {
+              "name": "Kalek House",
+              "starter": true,
+              "didNotPlay": false,
+              "actual": {
+                "MIN": "27",
+                "PTS": "8",
+                "FG": "2-5",
+                "3PT": "0-2",
+                "FT": "4-4",
+                "REB": "1",
+                "AST": "2",
+                "TO": "1",
+                "STL": "1",
+                "BLK": "0",
+                "OREB": "0",
+                "DREB": "1",
+                "PF": "3"
+              },
+              "projectedMinutes": 18.4,
+              "expectedStarter": false,
+              "pregameStatus": "Unconfirmed",
+              "minuteError": 8.6
+            },
+            {
+              "name": "Tru Washington",
+              "starter": true,
+              "didNotPlay": false,
+              "actual": {
+                "MIN": "31",
+                "PTS": "5",
+                "FG": "2-8",
+                "3PT": "1-3",
+                "FT": "0-0",
+                "REB": "1",
+                "AST": "1",
+                "TO": "2",
+                "STL": "1",
+                "BLK": "1",
+                "OREB": "0",
+                "DREB": "1",
+                "PF": "2"
+              },
+              "projectedMinutes": 28.3,
+              "expectedStarter": true,
+              "pregameStatus": "Unconfirmed",
+              "minuteError": 2.7
+            },
+            {
+              "name": "Rolyns Aligbe",
+              "starter": false,
+              "didNotPlay": false,
+              "actual": {
+                "MIN": "16",
+                "PTS": "3",
+                "FG": "1-3",
+                "3PT": "1-3",
+                "FT": "0-2",
+                "REB": "3",
+                "AST": "0",
+                "TO": "2",
+                "STL": "3",
+                "BLK": "0",
+                "OREB": "1",
+                "DREB": "2",
+                "PF": "1"
+              },
+              "projectedMinutes": 14.2,
+              "expectedStarter": false,
+              "pregameStatus": "Unconfirmed",
+              "minuteError": 1.8
+            },
+            {
+              "name": "Gabriel Pozzato",
+              "starter": false,
+              "didNotPlay": false,
+              "actual": {
+                "MIN": "19",
+                "PTS": "12",
+                "FG": "4-6",
+                "3PT": "1-2",
+                "FT": "3-3",
+                "REB": "2",
+                "AST": "1",
+                "TO": "0",
+                "STL": "1",
+                "BLK": "0",
+                "OREB": "0",
+                "DREB": "2",
+                "PF": "3"
+              },
+              "projectedMinutes": 14.5,
+              "expectedStarter": false,
+              "pregameStatus": "Unconfirmed",
+              "minuteError": 4.5
+            },
+            {
+              "name": "Nikos Chitikoudis",
+              "starter": false,
+              "didNotPlay": false,
+              "actual": {
+                "MIN": "17",
+                "PTS": "8",
+                "FG": "4-7",
+                "3PT": "0-0",
+                "FT": "0-0",
+                "REB": "1",
+                "AST": "1",
+                "TO": "1",
+                "STL": "2",
+                "BLK": "0",
+                "OREB": "0",
+                "DREB": "1",
+                "PF": "0"
+              },
+              "projectedMinutes": 13.2,
+              "expectedStarter": false,
+              "pregameStatus": "Unconfirmed",
+              "minuteError": 3.8
+            },
+            {
+              "name": "Ruben Dominguez",
+              "starter": false,
+              "didNotPlay": false,
+              "actual": {
+                "MIN": "9",
+                "PTS": "0",
+                "FG": "0-3",
+                "3PT": "0-1",
+                "FT": "0-0",
+                "REB": "0",
+                "AST": "1",
+                "TO": "0",
+                "STL": "0",
+                "BLK": "0",
+                "OREB": "0",
+                "DREB": "0",
+                "PF": "0"
+              },
+              "projectedMinutes": 15.5,
+              "expectedStarter": false,
+              "pregameStatus": "Unconfirmed",
+              "minuteError": -6.5
+            },
+            {
+              "name": "Chance Westry",
+              "starter": false,
+              "didNotPlay": false,
+              "actual": {
+                "MIN": "14",
+                "PTS": "10",
+                "FG": "3-7",
+                "3PT": "2-3",
+                "FT": "2-4",
+                "REB": "2",
+                "AST": "1",
+                "TO": "0",
+                "STL": "1",
+                "BLK": "0",
+                "OREB": "0",
+                "DREB": "2",
+                "PF": "2"
+              },
+              "projectedMinutes": 14.2,
+              "expectedStarter": true,
+              "pregameStatus": "Unconfirmed",
+              "minuteError": -0.2
+            },
+            {
+              "name": "Harrison Aligbe",
+              "starter": false,
+              "didNotPlay": true,
+              "actual": {},
+              "projectedMinutes": null,
+              "expectedStarter": false,
+              "pregameStatus": "Unconfirmed",
+              "minuteError": null
+            },
+            {
+              "name": "Asher Elson",
+              "starter": false,
+              "didNotPlay": true,
+              "actual": {},
+              "projectedMinutes": 2.9,
+              "expectedStarter": false,
+              "pregameStatus": "Unconfirmed",
+              "minuteError": null
+            },
+            {
+              "name": "Henry Thole",
+              "starter": false,
+              "didNotPlay": true,
+              "actual": {},
+              "projectedMinutes": 1.2,
+              "expectedStarter": false,
+              "pregameStatus": "Unconfirmed",
+              "minuteError": null
+            },
+            {
+              "name": "Kason Westphal",
+              "starter": false,
+              "didNotPlay": true,
+              "actual": {},
+              "projectedMinutes": 3.4,
+              "expectedStarter": false,
+              "pregameStatus": "Unconfirmed",
+              "minuteError": null
+            },
+            {
+              "name": "Gedeon Basson",
+              "starter": false,
+              "didNotPlay": true,
+              "actual": {},
+              "projectedMinutes": 1.2,
+              "expectedStarter": false,
+              "pregameStatus": "Unconfirmed",
+              "minuteError": null
+            },
+            {
+              "name": "Braden Appelhans",
+              "starter": false,
+              "didNotPlay": true,
+              "actual": {},
+              "projectedMinutes": 0,
+              "expectedStarter": false,
+              "pregameStatus": "Out",
+              "minuteError": null
+            },
+            {
+              "name": "Michael Wolf",
+              "starter": false,
+              "didNotPlay": true,
+              "actual": {},
+              "projectedMinutes": 1.2,
+              "expectedStarter": false,
+              "pregameStatus": "Unconfirmed",
+              "minuteError": null
+            }
+          ],
+          "expectedStarters": [
+            "Tru Washington",
+            "Filip Borovicanin",
+            "Jovan Milicevic",
+            "Mike Nwoko",
+            "Chance Westry"
+          ],
+          "actualStarters": [
+            "Filip Borovicanin",
+            "Jovan Milicevic",
+            "Mike Nwoko",
+            "Kalek House",
+            "Tru Washington"
+          ],
+          "possessionEstimate": 71.76,
+          "benchPoints": 33,
+          "availabilityFinding": "DNP alone does not establish injury. No independently verified unexpected absence recorded."
+        }
+      ],
+      "projectedMargin": 7,
+      "actualMargin": 12,
+      "marginError": 5,
+      "projectedTotal": 159,
+      "actualTotal": 154,
+      "totalError": -5,
+      "teamScoreMAE": 2.5,
+      "projectedPossessions": 72.0,
+      "actualPossessionEstimate": 71.72,
+      "secondHalf": [
+        41.0,
+        44.0
+      ],
+      "observations": [
+        "Virginia: FG 27-53, 3PT 12-30, FT 17-22, TO 21, OREB 12, bench 33 points.",
+        "Xavier: FG 24-61, 3PT 5-22, FT 18-29, TO 7, OREB 9, bench 33 points."
+      ],
+      "playerFindings": [
+        "Virginia \u2014 Nolan Adekunle: projected 22.6 min, actual 10, difference -12.6.",
+        "Virginia \u2014 Johann Grunloh: projected 31.0 min, actual 20, difference -11.",
+        "Virginia \u2014 Martin Carrere: projected 11.6 min, actual 1, difference -10.6.",
+        "Xavier \u2014 Kalek House: projected 18.4 min, actual 27, difference +8.6.",
+        "Xavier \u2014 Ruben Dominguez: projected 15.5 min, actual 9, difference -6.5.",
+        "Xavier \u2014 Gabriel Pozzato: projected 14.5 min, actual 19, difference +4.5."
+      ],
+      "primaryCause": "Observed contributors: Virginia: FG 27-53, 3PT 12-30, FT 17-22, TO 21, OREB 12, bench 33 points. Xavier: FG 24-61, 3PT 5-22, FT 18-29, TO 7, OREB 9, bench 33 points. Causal attribution to an absence or fatigue remains unverified.",
+      "lesson": "Separate margin error from total error; compare archived player expectations to actual minutes and shot volume.",
+      "recommendation": "Test pace/efficiency decomposition, rotation uncertainty and shooting regression on timestamped historical inputs before adopting changes.",
+      "confidence": "Unspecified in original IQ receipt",
+      "conference": [
+        "Atlantic Coast Conference",
+        "Big East Conference"
+      ],
+      "lineVerification": "Original book, line and observation timestamp preserved in receipt. Raw sportsbook response was not archived; independent quote authenticity remains unverified."
     },
     "401920848": {
-      "status": "Pregame; awaiting final",
+      "status": "Not final",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401920848"
     },
     "401920533": {
-      "status": "Pregame; awaiting final",
+      "status": "Not final",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401920533"
     },
     "401924810": {
-      "status": "Pregame; awaiting final",
+      "status": "Not final",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401924810"
     },
     "401921416": {
-      "status": "Pregame; awaiting final",
+      "status": "Not final",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401921416"
     },
     "401929288": {
