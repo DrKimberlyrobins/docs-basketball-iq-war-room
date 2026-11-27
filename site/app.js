@@ -116,6 +116,22 @@ function render(board, history) {
 }
 
 $('print').addEventListener('click',() => window.print());
+
+const receiptPrintStyle = document.createElement('style');
+receiptPrintStyle.textContent = '@media print{body.print-receipts .mast,body.print-receipts main>*:not(#history){display:none!important}body.print-receipts #history{display:block!important;border:0;margin:0;padding:0}body.print-receipts #history summary{list-style:none}body.print-receipts #history summary::-webkit-details-marker{display:none}#print-receipts{display:none!important}}';
+document.head.appendChild(receiptPrintStyle);
+const receiptPrint = document.createElement('button');
+receiptPrint.id = 'print-receipts';
+receiptPrint.type = 'button';
+receiptPrint.textContent = 'Print Pregame Receipts and Results';
+receiptPrint.style.cssText = 'background:white;border:1px solid #164c9b;color:#164c9b;padding:.45rem .8rem;border-radius:.4rem;margin:.75rem 0 0';
+$('records').before(receiptPrint);
+receiptPrint.addEventListener('click', () => {
+  $('history').open = true;
+  document.body.classList.add('print-receipts');
+  try { window.print(); } finally { document.body.classList.remove('print-receipts'); }
+});
+
 if (window.IQ_SNAPSHOT) {
   render(window.IQ_SNAPSHOT.board,window.IQ_SNAPSHOT.history);
 } else {
