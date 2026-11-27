@@ -154,7 +154,7 @@ def archive(board, prior_boards):
     for slate in prior_boards:
         for event in slate['events']:
             receipt=history.get(event['id'])
-            if not receipt or receipt.get('grade') or event['status']['type']['name']!='STATUS_FINAL':
+            if not receipt or event['status']['type']['name']!='STATUS_FINAL':
                 continue
             score={t['team']['location']:t for t in event['competitions'][0]['competitors']}
             if not all(n in score and str(score[n].get('score','')).isdigit() for n in receipt['names']):
@@ -204,7 +204,13 @@ def main():
         attach_first_half(board,page,datetime.now(timezone.utc))
     except (OSError,ValueError) as exc:
         print(f'First-half quote feed: {exc}')
+    snapshot=DATA/'pregame'/f'{day.isoformat()}.json'
+    snapshot.parent.mkdir(exist_ok=True)
+    if not snapshot.exists():
+        write_json(snapshot,board)
     archive(board,[fresh,scoreboard((day-timedelta(days=1)).isoformat())])
+    from postgame import run
+    run()
     write_json(DATA/'board.json',board)
 
 if __name__=='__main__':

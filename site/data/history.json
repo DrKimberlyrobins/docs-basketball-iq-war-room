@@ -69,6 +69,7 @@
       "gameError": 5,
       "halfError": 7.0,
       "winnerCorrect": false,
+      "halfWinnerCorrect": false,
       "spreadResult": "Win",
       "totalResult": "Win",
       "halfSpreadResult": "Loss",
@@ -145,6 +146,7 @@
       "gameError": 9,
       "halfError": 3.0,
       "winnerCorrect": false,
+      "halfWinnerCorrect": false,
       "spreadResult": "Loss",
       "totalResult": "Win",
       "halfSpreadResult": "Loss",
@@ -221,6 +223,7 @@
       "gameError": 16,
       "halfError": 5.0,
       "winnerCorrect": false,
+      "halfWinnerCorrect": true,
       "spreadResult": "Loss",
       "totalResult": "Loss",
       "halfSpreadResult": "Win",
@@ -297,6 +300,7 @@
       "gameError": 9,
       "halfError": 11.0,
       "winnerCorrect": false,
+      "halfWinnerCorrect": null,
       "spreadResult": "Win",
       "totalResult": "Loss",
       "halfSpreadResult": "Win",
@@ -373,6 +377,7 @@
       "gameError": 6,
       "halfError": 22.0,
       "winnerCorrect": false,
+      "halfWinnerCorrect": true,
       "spreadResult": "Loss",
       "totalResult": "Win",
       "halfSpreadResult": "Win",
@@ -449,6 +454,7 @@
       "gameError": 5,
       "halfError": 3.0,
       "winnerCorrect": false,
+      "halfWinnerCorrect": true,
       "spreadResult": "Win",
       "totalResult": "Win",
       "halfSpreadResult": "Win",
@@ -525,6 +531,7 @@
       "gameError": 12,
       "halfError": 11.0,
       "winnerCorrect": true,
+      "halfWinnerCorrect": true,
       "spreadResult": "Loss",
       "totalResult": "Win",
       "halfSpreadResult": "Loss",
@@ -601,6 +608,7 @@
       "gameError": 2,
       "halfError": 19.0,
       "winnerCorrect": false,
+      "halfWinnerCorrect": false,
       "spreadResult": "Win",
       "totalResult": "Loss",
       "halfSpreadResult": "Win",
@@ -677,6 +685,7 @@
       "gameError": 7,
       "halfError": 20.0,
       "winnerCorrect": true,
+      "halfWinnerCorrect": true,
       "spreadResult": "Loss",
       "totalResult": "Win",
       "halfSpreadResult": "Win",
@@ -753,6 +762,7 @@
       "gameError": 17,
       "halfError": 18.0,
       "winnerCorrect": true,
+      "halfWinnerCorrect": false,
       "spreadResult": "Win",
       "totalResult": "Loss",
       "halfSpreadResult": "Loss",
@@ -816,6 +826,24 @@
         40
       ],
       "projectedAt": "2026-11-26T14:13:51.124430+00:00"
+    },
+    "grade": {
+      "final": [
+        78,
+        74
+      ],
+      "half": [
+        41.0,
+        34.0
+      ],
+      "gameError": 12,
+      "halfError": 6.0,
+      "winnerCorrect": true,
+      "halfWinnerCorrect": true,
+      "spreadResult": "Win",
+      "totalResult": "Loss",
+      "halfSpreadResult": "Win",
+      "halfTotalResult": "Loss"
     }
   },
   "401917547": {
@@ -875,6 +903,24 @@
         42
       ],
       "projectedAt": "2026-11-26T14:13:51.124430+00:00"
+    },
+    "grade": {
+      "final": [
+        85,
+        70
+      ],
+      "half": [
+        45.0,
+        35.0
+      ],
+      "gameError": 9,
+      "halfError": 2.0,
+      "winnerCorrect": false,
+      "halfWinnerCorrect": false,
+      "spreadResult": "Win",
+      "totalResult": "Win",
+      "halfSpreadResult": "Loss",
+      "halfTotalResult": "Win"
     }
   },
   "401920538": {
@@ -934,6 +980,24 @@
         40
       ],
       "projectedAt": "2026-11-26T14:13:51.124430+00:00"
+    },
+    "grade": {
+      "final": [
+        87,
+        95
+      ],
+      "half": [
+        35.0,
+        44.0
+      ],
+      "gameError": 26,
+      "halfError": 1.0,
+      "winnerCorrect": null,
+      "halfWinnerCorrect": true,
+      "spreadResult": "Loss",
+      "totalResult": "Win",
+      "halfSpreadResult": "Win",
+      "halfTotalResult": "Win"
     }
   },
   "401918972": {
@@ -993,6 +1057,24 @@
         40
       ],
       "projectedAt": "2026-11-26T14:13:51.124430+00:00"
+    },
+    "grade": {
+      "final": [
+        86,
+        95
+      ],
+      "half": [
+        38.0,
+        36.0
+      ],
+      "gameError": 22,
+      "halfError": 3.0,
+      "winnerCorrect": true,
+      "halfWinnerCorrect": false,
+      "spreadResult": "Loss",
+      "totalResult": "Win",
+      "halfSpreadResult": "Win",
+      "halfTotalResult": "Loss"
     }
   },
   "401909506": {
@@ -1052,6 +1134,24 @@
         36
       ],
       "projectedAt": "2026-11-26T14:13:51.124430+00:00"
+    },
+    "grade": {
+      "final": [
+        64,
+        71
+      ],
+      "half": [
+        31.0,
+        34.0
+      ],
+      "gameError": 11,
+      "halfError": 5.0,
+      "winnerCorrect": true,
+      "halfWinnerCorrect": true,
+      "spreadResult": "Win",
+      "totalResult": "Loss",
+      "halfSpreadResult": "Win",
+      "halfTotalResult": "Win"
     }
   },
   "401911523": {
@@ -1111,6 +1211,24 @@
         34
       ],
       "projectedAt": "2026-11-26T14:13:51.124430+00:00"
+    },
+    "grade": {
+      "final": [
+        63,
+        68
+      ],
+      "half": [
+        35.0,
+        26.0
+      ],
+      "gameError": 15,
+      "halfError": 9.0,
+      "winnerCorrect": false,
+      "halfWinnerCorrect": true,
+      "spreadResult": "Win",
+      "totalResult": "Loss",
+      "halfSpreadResult": "Win",
+      "halfTotalResult": "Loss"
     }
   },
   "401920530": {
@@ -1170,6 +1288,24 @@
         41
       ],
       "projectedAt": "2026-11-26T14:13:51.124430+00:00"
+    },
+    "grade": {
+      "final": [
+        93,
+        90
+      ],
+      "half": [
+        57.0,
+        39.0
+      ],
+      "gameError": 22,
+      "halfError": 15.0,
+      "winnerCorrect": false,
+      "halfWinnerCorrect": false,
+      "spreadResult": "Loss",
+      "totalResult": "Loss",
+      "halfSpreadResult": "Loss",
+      "halfTotalResult": "Win"
     }
   },
   "401920539": {
@@ -1229,6 +1365,24 @@
         37
       ],
       "projectedAt": "2026-11-26T14:13:51.124430+00:00"
+    },
+    "grade": {
+      "final": [
+        104,
+        91
+      ],
+      "half": [
+        51.0,
+        35.0
+      ],
+      "gameError": 32,
+      "halfError": 7.0,
+      "winnerCorrect": true,
+      "halfWinnerCorrect": true,
+      "spreadResult": "Win",
+      "totalResult": "Loss",
+      "halfSpreadResult": "Loss",
+      "halfTotalResult": "Loss"
     }
   },
   "401917546": {
@@ -1288,6 +1442,24 @@
         31
       ],
       "projectedAt": "2026-11-26T14:13:51.124430+00:00"
+    },
+    "grade": {
+      "final": [
+        71,
+        62
+      ],
+      "half": [
+        32.0,
+        25.0
+      ],
+      "gameError": 11,
+      "halfError": 13.0,
+      "winnerCorrect": true,
+      "halfWinnerCorrect": true,
+      "spreadResult": "Win",
+      "totalResult": "Loss",
+      "halfSpreadResult": "Win",
+      "halfTotalResult": "Loss"
     }
   },
   "401920531": {
@@ -1347,6 +1519,24 @@
         36
       ],
       "projectedAt": "2026-11-26T14:13:51.124430+00:00"
+    },
+    "grade": {
+      "final": [
+        62,
+        59
+      ],
+      "half": [
+        38.0,
+        27.0
+      ],
+      "gameError": 34,
+      "halfError": 10.0,
+      "winnerCorrect": true,
+      "halfWinnerCorrect": true,
+      "spreadResult": "Win",
+      "totalResult": "Loss",
+      "halfSpreadResult": "Loss",
+      "halfTotalResult": "Loss"
     }
   },
   "401920540": {
@@ -1406,6 +1596,2570 @@
         41
       ],
       "projectedAt": "2026-11-26T14:13:51.124430+00:00"
+    },
+    "grade": {
+      "final": [
+        64,
+        72
+      ],
+      "half": [
+        32.0,
+        36.0
+      ],
+      "gameError": 26,
+      "halfError": 13.0,
+      "winnerCorrect": true,
+      "halfWinnerCorrect": true,
+      "spreadResult": "Win",
+      "totalResult": "Loss",
+      "halfSpreadResult": "Loss",
+      "halfTotalResult": "Loss"
+    }
+  },
+  "401920429": {
+    "tip": "2026-11-27T16:00Z",
+    "captured": "2026-11-27T15:08:38.229203+00:00",
+    "names": [
+      "Virginia",
+      "Xavier"
+    ],
+    "projection": {
+      "full": [
+        83,
+        76
+      ],
+      "half": [
+        40,
+        37
+      ],
+      "pace": 72.0,
+      "total": 159,
+      "halfTotal": 77,
+      "margin": 7,
+      "winner": "Virginia"
+    },
+    "market": {
+      "provider": "DraftKings",
+      "observed": "2026-11-27T15:08:45.334038+00:00",
+      "spread": [
+        -6.5,
+        6.5
+      ],
+      "total": 155.5,
+      "side": "Virginia",
+      "sideIndex": 0,
+      "spreadLine": -6.5,
+      "spreadGap": 0.5,
+      "totalDirection": "Over",
+      "totalGap": 3.5
+    },
+    "halfMarket": {
+      "quote": {
+        "provider": "DraftKings",
+        "source": "https://madduxsports.com/college-basketball-lines-1st-half.php",
+        "observed": "2026-11-27T15:08:52.202749+00:00",
+        "spread": [
+          -3.5,
+          3.5
+        ],
+        "total": 74.5,
+        "sideIndex": 1,
+        "spreadGap": 0.5,
+        "totalDirection": "Over",
+        "totalGap": 2.5
+      },
+      "score": [
+        40,
+        37
+      ],
+      "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    }
+  },
+  "401920848": {
+    "tip": "2026-11-27T17:00Z",
+    "captured": "2026-11-27T15:08:38.229203+00:00",
+    "names": [
+      "Liberty",
+      "St. Thomas"
+    ],
+    "projection": {
+      "full": [
+        77,
+        78
+      ],
+      "half": [
+        38,
+        37
+      ],
+      "pace": 66.0,
+      "total": 155,
+      "halfTotal": 75,
+      "margin": 1,
+      "winner": "St. Thomas"
+    },
+    "market": {
+      "provider": "DraftKings",
+      "observed": "2026-11-27T15:08:45.334038+00:00",
+      "spread": [
+        1.5,
+        -1.5
+      ],
+      "total": 145.5,
+      "side": "Liberty",
+      "sideIndex": 0,
+      "spreadLine": 1.5,
+      "spreadGap": 0.5,
+      "totalDirection": "Over",
+      "totalGap": 9.5
+    },
+    "halfMarket": {
+      "quote": {
+        "provider": "DraftKings",
+        "source": "https://madduxsports.com/college-basketball-lines-1st-half.php",
+        "observed": "2026-11-27T15:08:52.202749+00:00",
+        "spread": [
+          0.5,
+          -0.5
+        ],
+        "total": 67.5,
+        "sideIndex": 0,
+        "spreadGap": 1.5,
+        "totalDirection": "Over",
+        "totalGap": 7.5
+      },
+      "score": [
+        38,
+        37
+      ],
+      "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    }
+  },
+  "401920533": {
+    "tip": "2026-11-27T18:00Z",
+    "captured": "2026-11-27T15:08:38.229203+00:00",
+    "names": [
+      "St. John's",
+      "Iowa State"
+    ],
+    "projection": {
+      "full": [
+        80,
+        74
+      ],
+      "half": [
+        39,
+        36
+      ],
+      "pace": 70.8,
+      "total": 154,
+      "halfTotal": 75,
+      "margin": 6,
+      "winner": "St. John's"
+    },
+    "market": {
+      "provider": "DraftKings",
+      "observed": "2026-11-27T15:08:45.334038+00:00",
+      "spread": [
+        -2.5,
+        2.5
+      ],
+      "total": 151.5,
+      "side": "St. John's",
+      "sideIndex": 0,
+      "spreadLine": -2.5,
+      "spreadGap": 3.5,
+      "totalDirection": "Over",
+      "totalGap": 2.5
+    },
+    "halfMarket": {
+      "quote": {
+        "provider": "DraftKings",
+        "source": "https://madduxsports.com/college-basketball-lines-1st-half.php",
+        "observed": "2026-11-27T15:08:52.202749+00:00",
+        "spread": [
+          -1.5,
+          1.5
+        ],
+        "total": 70.5,
+        "sideIndex": 0,
+        "spreadGap": 1.5,
+        "totalDirection": "Over",
+        "totalGap": 4.5
+      },
+      "score": [
+        39,
+        36
+      ],
+      "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    }
+  },
+  "401924810": {
+    "tip": "2026-11-27T18:00Z",
+    "captured": "2026-11-27T15:08:38.229203+00:00",
+    "names": [
+      "Vermont",
+      "Merrimack"
+    ],
+    "projection": {
+      "full": [
+        73,
+        68
+      ],
+      "half": [
+        35,
+        32
+      ],
+      "pace": 64.6,
+      "total": 141,
+      "halfTotal": 67,
+      "margin": 5,
+      "winner": "Vermont"
+    },
+    "market": {
+      "provider": "DraftKings",
+      "observed": "2026-11-27T15:08:45.334038+00:00",
+      "spread": [
+        -2.5,
+        2.5
+      ],
+      "total": 128.5,
+      "side": "Vermont",
+      "sideIndex": 0,
+      "spreadLine": -2.5,
+      "spreadGap": 2.5,
+      "totalDirection": "Over",
+      "totalGap": 12.5
+    },
+    "halfMarket": {
+      "quote": {
+        "provider": "DraftKings",
+        "source": "https://madduxsports.com/college-basketball-lines-1st-half.php",
+        "observed": "2026-11-27T15:08:52.202749+00:00",
+        "spread": [
+          -1.5,
+          1.5
+        ],
+        "total": 61.5,
+        "sideIndex": 0,
+        "spreadGap": 1.5,
+        "totalDirection": "Over",
+        "totalGap": 5.5
+      },
+      "score": [
+        35,
+        32
+      ],
+      "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    }
+  },
+  "401921416": {
+    "tip": "2026-11-27T18:00Z",
+    "captured": "2026-11-27T15:08:38.229203+00:00",
+    "names": [
+      "Hampton",
+      "UMass Lowell"
+    ],
+    "projection": {
+      "full": [
+        68,
+        72
+      ],
+      "half": [
+        32,
+        35
+      ],
+      "pace": 68.2,
+      "total": 140,
+      "halfTotal": 67,
+      "margin": 4,
+      "winner": "UMass Lowell"
+    },
+    "market": {
+      "provider": "DraftKings",
+      "observed": "2026-11-27T15:08:45.334038+00:00",
+      "spread": [
+        2.5,
+        -2.5
+      ],
+      "total": 139.5,
+      "side": "UMass Lowell",
+      "sideIndex": 1,
+      "spreadLine": -2.5,
+      "spreadGap": 1.5,
+      "totalDirection": "Over",
+      "totalGap": 0.5
+    },
+    "halfMarket": {
+      "quote": {
+        "provider": "DraftKings",
+        "source": "https://madduxsports.com/college-basketball-lines-1st-half.php",
+        "observed": "2026-11-27T15:08:52.202749+00:00",
+        "spread": [
+          0.5,
+          -0.5
+        ],
+        "total": 65.5,
+        "sideIndex": 1,
+        "spreadGap": 2.5,
+        "totalDirection": "Over",
+        "totalGap": 1.5
+      },
+      "score": [
+        32,
+        35
+      ],
+      "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    }
+  },
+  "401929288": {
+    "tip": "2026-11-27T18:30Z",
+    "captured": "2026-11-27T15:08:38.229203+00:00",
+    "names": [
+      "Wake Forest",
+      "Memphis"
+    ],
+    "projection": {
+      "full": [
+        79,
+        81
+      ],
+      "half": [
+        39,
+        40
+      ],
+      "pace": 69.7,
+      "total": 160,
+      "halfTotal": 79,
+      "margin": 2,
+      "winner": "Memphis"
+    },
+    "market": {
+      "provider": "DraftKings",
+      "observed": "2026-11-27T15:08:45.334038+00:00",
+      "spread": [
+        1.5,
+        -1.5
+      ],
+      "total": 153.5,
+      "side": "Memphis",
+      "sideIndex": 1,
+      "spreadLine": -1.5,
+      "spreadGap": 0.5,
+      "totalDirection": "Over",
+      "totalGap": 6.5
+    },
+    "halfMarket": {
+      "quote": {
+        "provider": "DraftKings",
+        "source": "https://madduxsports.com/college-basketball-lines-1st-half.php",
+        "observed": "2026-11-27T15:08:52.202749+00:00",
+        "spread": [
+          0.5,
+          -0.5
+        ],
+        "total": 72.5,
+        "sideIndex": 1,
+        "spreadGap": 0.5,
+        "totalDirection": "Over",
+        "totalGap": 6.5
+      },
+      "score": [
+        39,
+        40
+      ],
+      "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    }
+  },
+  "401921827": {
+    "tip": "2026-11-27T19:00Z",
+    "captured": "2026-11-27T15:08:38.229203+00:00",
+    "names": [
+      "Southern",
+      "Vanderbilt"
+    ],
+    "projection": {
+      "full": [
+        61,
+        89
+      ],
+      "half": [
+        29,
+        43
+      ],
+      "pace": 70.6,
+      "total": 150,
+      "halfTotal": 72,
+      "margin": 28,
+      "winner": "Vanderbilt"
+    },
+    "market": {
+      "provider": "DraftKings",
+      "observed": "2026-11-27T15:08:45.334038+00:00",
+      "spread": [
+        36.5,
+        -36.5
+      ],
+      "total": 151.5,
+      "side": "Southern",
+      "sideIndex": 0,
+      "spreadLine": 36.5,
+      "spreadGap": 8.5,
+      "totalDirection": "Under",
+      "totalGap": 1.5
+    },
+    "halfMarket": {
+      "quote": {
+        "provider": "DraftKings",
+        "source": "https://madduxsports.com/college-basketball-lines-1st-half.php",
+        "observed": "2026-11-27T15:08:52.202749+00:00",
+        "spread": [
+          20.5,
+          -20.5
+        ],
+        "total": 72.5,
+        "sideIndex": 0,
+        "spreadGap": 6.5,
+        "totalDirection": "Under",
+        "totalGap": 0.5
+      },
+      "score": [
+        29,
+        43
+      ],
+      "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    }
+  },
+  "401929181": {
+    "tip": "2026-11-27T19:00Z",
+    "captured": "2026-11-27T15:08:38.229203+00:00",
+    "names": [
+      "South Alabama",
+      "Fresno State"
+    ],
+    "projection": {
+      "full": [
+        75,
+        77
+      ],
+      "half": [
+        36,
+        38
+      ],
+      "pace": 67.2,
+      "total": 152,
+      "halfTotal": 74,
+      "margin": 2,
+      "winner": "Fresno State"
+    },
+    "market": {
+      "provider": "DraftKings",
+      "observed": "2026-11-27T15:08:45.334038+00:00",
+      "spread": [
+        -2.5,
+        2.5
+      ],
+      "total": 144.5,
+      "side": "Fresno State",
+      "sideIndex": 1,
+      "spreadLine": 2.5,
+      "spreadGap": 4.5,
+      "totalDirection": "Over",
+      "totalGap": 7.5
+    },
+    "halfMarket": {
+      "quote": {
+        "provider": "DraftKings",
+        "source": "https://madduxsports.com/college-basketball-lines-1st-half.php",
+        "observed": "2026-11-27T15:08:52.202749+00:00",
+        "spread": [
+          -0.5,
+          0.5
+        ],
+        "total": 67.5,
+        "sideIndex": 1,
+        "spreadGap": 2.5,
+        "totalDirection": "Over",
+        "totalGap": 6.5
+      },
+      "score": [
+        36,
+        38
+      ],
+      "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    }
+  },
+  "401921224": {
+    "tip": "2026-11-27T19:00Z",
+    "captured": "2026-11-27T15:08:38.229203+00:00",
+    "names": [
+      "Navy",
+      "Fairfield"
+    ],
+    "projection": {
+      "full": [
+        66,
+        70
+      ],
+      "half": [
+        32,
+        32
+      ],
+      "pace": 67.8,
+      "total": 136,
+      "halfTotal": 64,
+      "margin": 4,
+      "winner": "Fairfield"
+    },
+    "market": {
+      "provider": "DraftKings",
+      "observed": "2026-11-27T15:08:45.334038+00:00",
+      "spread": [
+        5.5,
+        -5.5
+      ],
+      "total": 135.5,
+      "side": "Navy",
+      "sideIndex": 0,
+      "spreadLine": 5.5,
+      "spreadGap": 1.5,
+      "totalDirection": "Over",
+      "totalGap": 0.5
+    },
+    "halfMarket": {
+      "quote": {
+        "provider": "DraftKings",
+        "source": "https://madduxsports.com/college-basketball-lines-1st-half.php",
+        "observed": "2026-11-27T15:08:52.202749+00:00",
+        "spread": [
+          2.5,
+          -2.5
+        ],
+        "total": 63.5,
+        "sideIndex": 0,
+        "spreadGap": 2.5,
+        "totalDirection": "Over",
+        "totalGap": 0.5
+      },
+      "score": [
+        32,
+        32
+      ],
+      "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    }
+  },
+  "401919786": {
+    "tip": "2026-11-27T19:00Z",
+    "captured": "2026-11-27T15:08:38.229203+00:00",
+    "names": [
+      "Maine",
+      "Le Moyne"
+    ],
+    "projection": {
+      "full": [
+        68,
+        70
+      ],
+      "half": [
+        31,
+        32
+      ],
+      "pace": 69.3,
+      "total": 138,
+      "halfTotal": 63,
+      "margin": 2,
+      "winner": "Le Moyne"
+    },
+    "market": {
+      "provider": "DraftKings",
+      "observed": "2026-11-27T15:08:45.334038+00:00",
+      "spread": [
+        1.5,
+        -1.5
+      ],
+      "total": 139.5,
+      "side": "Le Moyne",
+      "sideIndex": 1,
+      "spreadLine": -1.5,
+      "spreadGap": 0.5,
+      "totalDirection": "Under",
+      "totalGap": 1.5
+    },
+    "halfMarket": {
+      "quote": {
+        "provider": "DraftKings",
+        "source": "https://madduxsports.com/college-basketball-lines-1st-half.php",
+        "observed": "2026-11-27T15:08:52.202749+00:00",
+        "spread": [
+          -0.5,
+          0.5
+        ],
+        "total": 66.5,
+        "sideIndex": 1,
+        "spreadGap": 1.5,
+        "totalDirection": "Under",
+        "totalGap": 3.5
+      },
+      "score": [
+        31,
+        32
+      ],
+      "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    }
+  },
+  "401921717": {
+    "tip": "2026-11-27T19:30Z",
+    "captured": "2026-11-27T15:08:38.229203+00:00",
+    "names": [
+      "Georgetown",
+      "UCLA"
+    ],
+    "projection": {
+      "full": [
+        78,
+        84
+      ],
+      "half": [
+        38,
+        41
+      ],
+      "pace": 68.8,
+      "total": 162,
+      "halfTotal": 79,
+      "margin": 6,
+      "winner": "UCLA"
+    },
+    "market": {
+      "provider": "DraftKings",
+      "observed": "2026-11-27T15:08:45.334038+00:00",
+      "spread": [
+        7.5,
+        -7.5
+      ],
+      "total": 149.5,
+      "side": "Georgetown",
+      "sideIndex": 0,
+      "spreadLine": 7.5,
+      "spreadGap": 1.5,
+      "totalDirection": "Over",
+      "totalGap": 12.5
+    },
+    "halfMarket": {
+      "quote": {
+        "provider": "DraftKings",
+        "source": "https://madduxsports.com/college-basketball-lines-1st-half.php",
+        "observed": "2026-11-27T15:08:52.202749+00:00",
+        "spread": [
+          4.5,
+          -4.5
+        ],
+        "total": 70.5,
+        "sideIndex": 0,
+        "spreadGap": 1.5,
+        "totalDirection": "Over",
+        "totalGap": 8.5
+      },
+      "score": [
+        38,
+        41
+      ],
+      "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    }
+  },
+  "401928468": {
+    "tip": "2026-11-27T20:00Z",
+    "captured": "2026-11-27T15:08:38.229203+00:00",
+    "names": [
+      "Texas State",
+      "Louisiana Tech"
+    ],
+    "projection": {
+      "full": [
+        77,
+        68
+      ],
+      "half": [
+        38,
+        32
+      ],
+      "pace": 67.3,
+      "total": 145,
+      "halfTotal": 70,
+      "margin": 9,
+      "winner": "Texas State"
+    },
+    "market": {
+      "provider": "DraftKings",
+      "observed": "2026-11-27T15:08:45.334038+00:00",
+      "spread": [
+        -4.5,
+        4.5
+      ],
+      "total": 138.5,
+      "side": "Texas State",
+      "sideIndex": 0,
+      "spreadLine": -4.5,
+      "spreadGap": 4.5,
+      "totalDirection": "Over",
+      "totalGap": 6.5
+    },
+    "halfMarket": {
+      "quote": {
+        "provider": "DraftKings",
+        "source": "https://madduxsports.com/college-basketball-lines-1st-half.php",
+        "observed": "2026-11-27T15:08:52.202749+00:00",
+        "spread": [
+          -2.5,
+          2.5
+        ],
+        "total": 64.5,
+        "sideIndex": 0,
+        "spreadGap": 3.5,
+        "totalDirection": "Over",
+        "totalGap": 5.5
+      },
+      "score": [
+        38,
+        32
+      ],
+      "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    }
+  },
+  "401924738": {
+    "tip": "2026-11-27T20:00Z",
+    "captured": "2026-11-27T15:08:38.229203+00:00",
+    "names": [
+      "Princeton",
+      "UNC Wilmington"
+    ],
+    "projection": {
+      "full": [
+        73,
+        82
+      ],
+      "half": [
+        34,
+        39
+      ],
+      "pace": 67.8,
+      "total": 155,
+      "halfTotal": 73,
+      "margin": 9,
+      "winner": "UNC Wilmington"
+    },
+    "market": {
+      "provider": "DraftKings",
+      "observed": "2026-11-27T15:08:45.334038+00:00",
+      "spread": [
+        7.5,
+        -7.5
+      ],
+      "total": 151.5,
+      "side": "UNC Wilmington",
+      "sideIndex": 1,
+      "spreadLine": -7.5,
+      "spreadGap": 1.5,
+      "totalDirection": "Over",
+      "totalGap": 3.5
+    }
+  },
+  "401920542": {
+    "tip": "2026-11-27T20:00Z",
+    "captured": "2026-11-27T15:08:38.229203+00:00",
+    "names": [
+      "TCU",
+      "Baylor"
+    ],
+    "projection": {
+      "full": [
+        77,
+        80
+      ],
+      "half": [
+        37,
+        40
+      ],
+      "pace": 69.6,
+      "total": 157,
+      "halfTotal": 77,
+      "margin": 3,
+      "winner": "Baylor"
+    },
+    "market": {
+      "provider": "DraftKings",
+      "observed": "2026-11-27T15:08:45.334038+00:00",
+      "spread": [
+        4.5,
+        -4.5
+      ],
+      "total": 149.5,
+      "side": "TCU",
+      "sideIndex": 0,
+      "spreadLine": 4.5,
+      "spreadGap": 1.5,
+      "totalDirection": "Over",
+      "totalGap": 7.5
+    },
+    "halfMarket": {
+      "quote": {
+        "provider": "DraftKings",
+        "source": "https://madduxsports.com/college-basketball-lines-1st-half.php",
+        "observed": "2026-11-27T15:08:52.202749+00:00",
+        "spread": [
+          2.5,
+          -2.5
+        ],
+        "total": 71.5,
+        "sideIndex": 1,
+        "spreadGap": 0.5,
+        "totalDirection": "Over",
+        "totalGap": 5.5
+      },
+      "score": [
+        37,
+        40
+      ],
+      "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    }
+  },
+  "401902282": {
+    "tip": "2026-11-27T20:00Z",
+    "captured": "2026-11-27T15:08:38.229203+00:00",
+    "names": [
+      "Bellarmine",
+      "Butler"
+    ],
+    "projection": {
+      "full": [
+        69,
+        84
+      ],
+      "half": [
+        32,
+        42
+      ],
+      "pace": 68.6,
+      "total": 153,
+      "halfTotal": 74,
+      "margin": 15,
+      "winner": "Butler"
+    },
+    "market": {
+      "provider": "DraftKings",
+      "observed": "2026-11-27T15:08:45.334038+00:00",
+      "spread": [
+        18.5,
+        -18.5
+      ],
+      "total": 152.5,
+      "side": "Bellarmine",
+      "sideIndex": 0,
+      "spreadLine": 18.5,
+      "spreadGap": 3.5,
+      "totalDirection": "Over",
+      "totalGap": 0.5
+    },
+    "halfMarket": {
+      "quote": {
+        "provider": "DraftKings",
+        "source": "https://madduxsports.com/college-basketball-lines-1st-half.php",
+        "observed": "2026-11-27T15:08:52.202749+00:00",
+        "spread": [
+          10.5,
+          -10.5
+        ],
+        "total": 72.5,
+        "sideIndex": 0,
+        "spreadGap": 0.5,
+        "totalDirection": "Over",
+        "totalGap": 1.5
+      },
+      "score": [
+        32,
+        42
+      ],
+      "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    }
+  },
+  "401921417": {
+    "tip": "2026-11-27T20:30Z",
+    "captured": "2026-11-27T15:08:38.229203+00:00",
+    "names": [
+      "La Salle",
+      "Bucknell"
+    ],
+    "projection": {
+      "full": [
+        77,
+        69
+      ],
+      "half": [
+        38,
+        34
+      ],
+      "pace": 68.6,
+      "total": 146,
+      "halfTotal": 72,
+      "margin": 8,
+      "winner": "La Salle"
+    },
+    "market": {
+      "provider": "DraftKings",
+      "observed": "2026-11-27T15:08:45.334038+00:00",
+      "spread": [
+        -9.5,
+        9.5
+      ],
+      "total": 148.5,
+      "side": "Bucknell",
+      "sideIndex": 1,
+      "spreadLine": 9.5,
+      "spreadGap": 1.5,
+      "totalDirection": "Under",
+      "totalGap": 2.5
+    }
+  },
+  "401920774": {
+    "tip": "2026-11-27T20:30Z",
+    "captured": "2026-11-27T15:08:38.229203+00:00",
+    "names": [
+      "Colgate",
+      "Hofstra"
+    ],
+    "projection": {
+      "full": [
+        69,
+        72
+      ],
+      "half": [
+        34,
+        34
+      ],
+      "pace": 67.4,
+      "total": 141,
+      "halfTotal": 68,
+      "margin": 3,
+      "winner": "Hofstra"
+    },
+    "market": {
+      "provider": "DraftKings",
+      "observed": "2026-11-27T15:08:45.334038+00:00",
+      "spread": [
+        3.5,
+        -3.5
+      ],
+      "total": 138.5,
+      "side": "Colgate",
+      "sideIndex": 0,
+      "spreadLine": 3.5,
+      "spreadGap": 0.5,
+      "totalDirection": "Over",
+      "totalGap": 2.5
+    }
+  },
+  "401920532": {
+    "tip": "2026-11-27T20:30Z",
+    "captured": "2026-11-27T15:08:38.229203+00:00",
+    "names": [
+      "Oregon",
+      "Maryland"
+    ],
+    "projection": {
+      "full": [
+        79,
+        78
+      ],
+      "half": [
+        38,
+        38
+      ],
+      "pace": 68.5,
+      "total": 157,
+      "halfTotal": 76,
+      "margin": 1,
+      "winner": "Oregon"
+    },
+    "market": {
+      "provider": "DraftKings",
+      "observed": "2026-11-27T15:08:45.334038+00:00",
+      "spread": [
+        2.5,
+        -2.5
+      ],
+      "total": 149.5,
+      "side": "Oregon",
+      "sideIndex": 0,
+      "spreadLine": 2.5,
+      "spreadGap": 3.5,
+      "totalDirection": "Over",
+      "totalGap": 7.5
+    },
+    "halfMarket": {
+      "quote": {
+        "provider": "DraftKings",
+        "source": "https://madduxsports.com/college-basketball-lines-1st-half.php",
+        "observed": "2026-11-27T15:08:52.202749+00:00",
+        "spread": [
+          1.5,
+          -1.5
+        ],
+        "total": 69.5,
+        "sideIndex": 0,
+        "spreadGap": 1.5,
+        "totalDirection": "Over",
+        "totalGap": 6.5
+      },
+      "score": [
+        38,
+        38
+      ],
+      "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    }
+  },
+  "401921818": {
+    "tip": "2026-11-27T21:00Z",
+    "captured": "2026-11-27T15:08:38.229203+00:00",
+    "names": [
+      "Arkansas-Pine Bluff",
+      "Missouri"
+    ],
+    "projection": {
+      "full": [
+        56,
+        95
+      ],
+      "half": [
+        25,
+        46
+      ],
+      "pace": 71.1,
+      "total": 151,
+      "halfTotal": 71,
+      "margin": 39,
+      "winner": "Missouri"
+    },
+    "market": {
+      "provider": "DraftKings",
+      "observed": "2026-11-27T15:08:45.334038+00:00",
+      "spread": [
+        48.5,
+        -48.5
+      ],
+      "total": 155.5,
+      "side": "Arkansas-Pine Bluff",
+      "sideIndex": 0,
+      "spreadLine": 48.5,
+      "spreadGap": 9.5,
+      "totalDirection": "Under",
+      "totalGap": 4.5
+    }
+  },
+  "401912213": {
+    "tip": "2026-11-27T21:00Z",
+    "captured": "2026-11-27T15:08:38.229203+00:00",
+    "names": [
+      "Radford",
+      "American University"
+    ],
+    "projection": {
+      "full": [
+        70,
+        77
+      ],
+      "half": [
+        37,
+        39
+      ],
+      "pace": 68.5,
+      "total": 147,
+      "halfTotal": 76,
+      "margin": 7,
+      "winner": "American University"
+    },
+    "market": {
+      "provider": "DraftKings",
+      "observed": "2026-11-27T15:08:45.334038+00:00",
+      "spread": [
+        7.5,
+        -7.5
+      ],
+      "total": 143.5,
+      "side": "Radford",
+      "sideIndex": 0,
+      "spreadLine": 7.5,
+      "spreadGap": 0.5,
+      "totalDirection": "Over",
+      "totalGap": 3.5
+    }
+  },
+  "401911212": {
+    "tip": "2026-11-27T21:00Z",
+    "captured": "2026-11-27T15:08:38.229203+00:00",
+    "names": [
+      "UMBC",
+      "George Washington"
+    ],
+    "projection": {
+      "full": [
+        64,
+        83
+      ],
+      "half": [
+        31,
+        39
+      ],
+      "pace": 71.2,
+      "total": 147,
+      "halfTotal": 70,
+      "margin": 19,
+      "winner": "George Washington"
+    },
+    "market": {
+      "provider": "DraftKings",
+      "observed": "2026-11-27T15:08:45.334038+00:00",
+      "spread": [
+        21.5,
+        -21.5
+      ],
+      "total": 150.5,
+      "side": "UMBC",
+      "sideIndex": 0,
+      "spreadLine": 21.5,
+      "spreadGap": 2.5,
+      "totalDirection": "Under",
+      "totalGap": 3.5
+    }
+  },
+  "401929283": {
+    "tip": "2026-11-27T21:30Z",
+    "captured": "2026-11-27T15:08:38.229203+00:00",
+    "names": [
+      "Cincinnati",
+      "Boston College"
+    ],
+    "projection": {
+      "full": [
+        77,
+        71
+      ],
+      "half": [
+        38,
+        34
+      ],
+      "pace": 66.0,
+      "total": 148,
+      "halfTotal": 72,
+      "margin": 6,
+      "winner": "Cincinnati"
+    },
+    "market": {
+      "provider": "DraftKings",
+      "observed": "2026-11-27T15:08:45.334038+00:00",
+      "spread": [
+        -8.5,
+        8.5
+      ],
+      "total": 140.5,
+      "side": "Boston College",
+      "sideIndex": 1,
+      "spreadLine": 8.5,
+      "spreadGap": 2.5,
+      "totalDirection": "Over",
+      "totalGap": 7.5
+    },
+    "halfMarket": {
+      "quote": {
+        "provider": "DraftKings",
+        "source": "https://madduxsports.com/college-basketball-lines-1st-half.php",
+        "observed": "2026-11-27T15:08:52.202749+00:00",
+        "spread": [
+          -4.5,
+          4.5
+        ],
+        "total": 65.5,
+        "sideIndex": 1,
+        "spreadGap": 0.5,
+        "totalDirection": "Over",
+        "totalGap": 6.5
+      },
+      "score": [
+        38,
+        34
+      ],
+      "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    }
+  },
+  "401924845": {
+    "tip": "2026-11-27T21:30Z",
+    "captured": "2026-11-27T15:08:38.229203+00:00",
+    "names": [
+      "Niagara",
+      "Lafayette"
+    ],
+    "projection": {
+      "full": [
+        68,
+        75
+      ],
+      "half": [
+        33,
+        37
+      ],
+      "pace": 68.6,
+      "total": 143,
+      "halfTotal": 70,
+      "margin": 7,
+      "winner": "Lafayette"
+    },
+    "market": {
+      "provider": "DraftKings",
+      "observed": "2026-11-27T15:08:45.334038+00:00",
+      "spread": [
+        5.5,
+        -5.5
+      ],
+      "total": 140.5,
+      "side": "Lafayette",
+      "sideIndex": 1,
+      "spreadLine": -5.5,
+      "spreadGap": 1.5,
+      "totalDirection": "Over",
+      "totalGap": 2.5
+    }
+  },
+  "401921718": {
+    "tip": "2026-11-27T22:00Z",
+    "captured": "2026-11-27T15:08:38.229203+00:00",
+    "names": [
+      "Texas",
+      "Saint Mary's"
+    ],
+    "projection": {
+      "full": [
+        85,
+        81
+      ],
+      "half": [
+        42,
+        38
+      ],
+      "pace": 70.4,
+      "total": 166,
+      "halfTotal": 80,
+      "margin": 4,
+      "winner": "Texas"
+    },
+    "market": {
+      "provider": "DraftKings",
+      "observed": "2026-11-27T15:08:45.334038+00:00",
+      "spread": [
+        -7.5,
+        7.5
+      ],
+      "total": 160.5,
+      "side": "Saint Mary's",
+      "sideIndex": 1,
+      "spreadLine": 7.5,
+      "spreadGap": 3.5,
+      "totalDirection": "Over",
+      "totalGap": 5.5
+    },
+    "halfMarket": {
+      "quote": {
+        "provider": "DraftKings",
+        "source": "https://madduxsports.com/college-basketball-lines-1st-half.php",
+        "observed": "2026-11-27T15:08:52.202749+00:00",
+        "spread": [
+          -4.5,
+          4.5
+        ],
+        "total": 75.5,
+        "sideIndex": 1,
+        "spreadGap": 0.5,
+        "totalDirection": "Over",
+        "totalGap": 4.5
+      },
+      "score": [
+        42,
+        38
+      ],
+      "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    }
+  },
+  "401909789": {
+    "tip": "2026-11-27T22:00Z",
+    "captured": "2026-11-27T15:08:38.229203+00:00",
+    "names": [
+      "Villanova",
+      "Kansas"
+    ],
+    "projection": {
+      "full": [
+        73,
+        85
+      ],
+      "half": [
+        35,
+        41
+      ],
+      "pace": 70.9,
+      "total": 158,
+      "halfTotal": 76,
+      "margin": 12,
+      "winner": "Kansas"
+    },
+    "market": {
+      "provider": "DraftKings",
+      "observed": "2026-11-27T15:08:45.334038+00:00",
+      "spread": [
+        10.5,
+        -10.5
+      ],
+      "total": 158.5,
+      "side": "Kansas",
+      "sideIndex": 1,
+      "spreadLine": -10.5,
+      "spreadGap": 1.5,
+      "totalDirection": "Under",
+      "totalGap": 0.5
+    },
+    "halfMarket": {
+      "quote": {
+        "provider": "DraftKings",
+        "source": "https://madduxsports.com/college-basketball-lines-1st-half.php",
+        "observed": "2026-11-27T15:08:52.202749+00:00",
+        "spread": [
+          6.5,
+          -6.5
+        ],
+        "total": 74.5,
+        "sideIndex": 0,
+        "spreadGap": 0.5,
+        "totalDirection": "Over",
+        "totalGap": 1.5
+      },
+      "score": [
+        35,
+        41
+      ],
+      "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    }
+  },
+  "401920810": {
+    "tip": "2026-11-27T22:00Z",
+    "captured": "2026-11-27T15:08:38.229203+00:00",
+    "names": [
+      "Marquette",
+      "Texas A&M"
+    ],
+    "projection": {
+      "full": [
+        76,
+        80
+      ],
+      "half": [
+        37,
+        39
+      ],
+      "pace": 71.8,
+      "total": 156,
+      "halfTotal": 76,
+      "margin": 4,
+      "winner": "Texas A&M"
+    },
+    "market": {
+      "provider": "DraftKings",
+      "observed": "2026-11-27T15:08:45.334038+00:00",
+      "spread": [
+        -1.5,
+        1.5
+      ],
+      "total": 159.5,
+      "side": "Texas A&M",
+      "sideIndex": 1,
+      "spreadLine": 1.5,
+      "spreadGap": 5.5,
+      "totalDirection": "Under",
+      "totalGap": 3.5
+    },
+    "halfMarket": {
+      "quote": {
+        "provider": "DraftKings",
+        "source": "https://madduxsports.com/college-basketball-lines-1st-half.php",
+        "observed": "2026-11-27T15:08:52.202749+00:00",
+        "spread": [
+          -0.5,
+          0.5
+        ],
+        "total": 74.5,
+        "sideIndex": 1,
+        "spreadGap": 2.5,
+        "totalDirection": "Over",
+        "totalGap": 1.5
+      },
+      "score": [
+        37,
+        39
+      ],
+      "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    }
+  },
+  "401920382": {
+    "tip": "2026-11-27T22:00Z",
+    "captured": "2026-11-27T15:08:38.229203+00:00",
+    "names": [
+      "Old Dominion",
+      "Virginia Tech"
+    ],
+    "projection": {
+      "full": [
+        70,
+        86
+      ],
+      "half": [
+        34,
+        42
+      ],
+      "pace": 67.8,
+      "total": 156,
+      "halfTotal": 76,
+      "margin": 16,
+      "winner": "Virginia Tech"
+    },
+    "market": {
+      "provider": "DraftKings",
+      "observed": "2026-11-27T15:08:45.334038+00:00",
+      "spread": [
+        17.5,
+        -17.5
+      ],
+      "total": 142.5,
+      "side": "Old Dominion",
+      "sideIndex": 0,
+      "spreadLine": 17.5,
+      "spreadGap": 1.5,
+      "totalDirection": "Over",
+      "totalGap": 13.5
+    },
+    "halfMarket": {
+      "quote": {
+        "provider": "DraftKings",
+        "source": "https://madduxsports.com/college-basketball-lines-1st-half.php",
+        "observed": "2026-11-27T15:08:52.202749+00:00",
+        "spread": [
+          10.5,
+          -10.5
+        ],
+        "total": 67.5,
+        "sideIndex": 0,
+        "spreadGap": 2.5,
+        "totalDirection": "Over",
+        "totalGap": 8.5
+      },
+      "score": [
+        34,
+        42
+      ],
+      "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    }
+  },
+  "401927366": {
+    "tip": "2026-11-27T22:30Z",
+    "captured": "2026-11-27T15:08:38.229203+00:00",
+    "names": [
+      "Drake",
+      "Boise State"
+    ],
+    "projection": {
+      "full": [
+        75,
+        84
+      ],
+      "half": [
+        34,
+        41
+      ],
+      "pace": 70.3,
+      "total": 159,
+      "halfTotal": 75,
+      "margin": 9,
+      "winner": "Boise State"
+    },
+    "market": {
+      "provider": "DraftKings",
+      "observed": "2026-11-27T15:08:45.334038+00:00",
+      "spread": [
+        5.5,
+        -5.5
+      ],
+      "total": 157.5,
+      "side": "Boise State",
+      "sideIndex": 1,
+      "spreadLine": -5.5,
+      "spreadGap": 3.5,
+      "totalDirection": "Over",
+      "totalGap": 1.5
+    },
+    "halfMarket": {
+      "quote": {
+        "provider": "DraftKings",
+        "source": "https://madduxsports.com/college-basketball-lines-1st-half.php",
+        "observed": "2026-11-27T15:08:52.202749+00:00",
+        "spread": [
+          3.5,
+          -3.5
+        ],
+        "total": 74.5,
+        "sideIndex": 1,
+        "spreadGap": 3.5,
+        "totalDirection": "Over",
+        "totalGap": 0.5
+      },
+      "score": [
+        34,
+        41
+      ],
+      "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    }
+  },
+  "401920541": {
+    "tip": "2026-11-27T22:30Z",
+    "captured": "2026-11-27T15:08:38.229203+00:00",
+    "names": [
+      "Michigan",
+      "Kansas State"
+    ],
+    "projection": {
+      "full": [
+        83,
+        77
+      ],
+      "half": [
+        40,
+        37
+      ],
+      "pace": 72.8,
+      "total": 160,
+      "halfTotal": 77,
+      "margin": 6,
+      "winner": "Michigan"
+    },
+    "market": {
+      "provider": "DraftKings",
+      "observed": "2026-11-27T15:08:45.334038+00:00",
+      "spread": [
+        -9.5,
+        9.5
+      ],
+      "total": 164.5,
+      "side": "Kansas State",
+      "sideIndex": 1,
+      "spreadLine": 9.5,
+      "spreadGap": 3.5,
+      "totalDirection": "Under",
+      "totalGap": 4.5
+    },
+    "halfMarket": {
+      "quote": {
+        "provider": "DraftKings",
+        "source": "https://madduxsports.com/college-basketball-lines-1st-half.php",
+        "observed": "2026-11-27T15:08:52.202749+00:00",
+        "spread": [
+          -4.5,
+          4.5
+        ],
+        "total": 78.5,
+        "sideIndex": 1,
+        "spreadGap": 1.5,
+        "totalDirection": "Under",
+        "totalGap": 1.5
+      },
+      "score": [
+        40,
+        37
+      ],
+      "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    }
+  },
+  "401913531": {
+    "tip": "2026-11-27T23:00Z",
+    "captured": "2026-11-27T15:08:38.229203+00:00",
+    "names": [
+      "Western Kentucky",
+      "Illinois"
+    ],
+    "projection": {
+      "full": [
+        74,
+        96
+      ],
+      "half": [
+        36,
+        46
+      ],
+      "pace": 73.3,
+      "total": 170,
+      "halfTotal": 82,
+      "margin": 22,
+      "winner": "Illinois"
+    },
+    "market": {
+      "provider": "DraftKings",
+      "observed": "2026-11-27T15:08:45.334038+00:00",
+      "spread": [
+        26.5,
+        -26.5
+      ],
+      "total": 175.5,
+      "side": "Western Kentucky",
+      "sideIndex": 0,
+      "spreadLine": 26.5,
+      "spreadGap": 4.5,
+      "totalDirection": "Under",
+      "totalGap": 5.5
+    },
+    "halfMarket": {
+      "quote": {
+        "provider": "DraftKings",
+        "source": "https://madduxsports.com/college-basketball-lines-1st-half.php",
+        "observed": "2026-11-27T15:08:52.202749+00:00",
+        "spread": [
+          15.5,
+          -15.5
+        ],
+        "total": 83.5,
+        "sideIndex": 0,
+        "spreadGap": 5.5,
+        "totalDirection": "Under",
+        "totalGap": 1.5
+      },
+      "score": [
+        36,
+        46
+      ],
+      "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    }
+  },
+  "401911030": {
+    "tip": "2026-11-27T23:00Z",
+    "captured": "2026-11-27T15:08:38.229203+00:00",
+    "names": [
+      "Bowling Green",
+      "Indiana"
+    ],
+    "projection": {
+      "full": [
+        73,
+        90
+      ],
+      "half": [
+        34,
+        44
+      ],
+      "pace": 68.7,
+      "total": 163,
+      "halfTotal": 78,
+      "margin": 17,
+      "winner": "Indiana"
+    },
+    "market": {
+      "provider": "DraftKings",
+      "observed": "2026-11-27T15:08:45.334038+00:00",
+      "spread": [
+        22.5,
+        -22.5
+      ],
+      "total": 151.5,
+      "side": "Bowling Green",
+      "sideIndex": 0,
+      "spreadLine": 22.5,
+      "spreadGap": 5.5,
+      "totalDirection": "Over",
+      "totalGap": 11.5
+    },
+    "halfMarket": {
+      "quote": {
+        "provider": "DraftKings",
+        "source": "https://madduxsports.com/college-basketball-lines-1st-half.php",
+        "observed": "2026-11-27T15:08:52.202749+00:00",
+        "spread": [
+          13.5,
+          -13.5
+        ],
+        "total": 71.5,
+        "sideIndex": 0,
+        "spreadGap": 3.5,
+        "totalDirection": "Over",
+        "totalGap": 6.5
+      },
+      "score": [
+        34,
+        44
+      ],
+      "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    }
+  },
+  "401921185": {
+    "tip": "2026-11-27T23:00Z",
+    "captured": "2026-11-27T15:08:38.229203+00:00",
+    "names": [
+      "Towson",
+      "Pennsylvania"
+    ],
+    "projection": {
+      "full": [
+        68,
+        76
+      ],
+      "half": [
+        33,
+        37
+      ],
+      "pace": 69.3,
+      "total": 144,
+      "halfTotal": 70,
+      "margin": 8,
+      "winner": "Pennsylvania"
+    },
+    "market": {
+      "provider": "DraftKings",
+      "observed": "2026-11-27T15:08:45.334038+00:00",
+      "spread": [
+        3.5,
+        -3.5
+      ],
+      "total": 144.5,
+      "side": "Pennsylvania",
+      "sideIndex": 1,
+      "spreadLine": -3.5,
+      "spreadGap": 4.5,
+      "totalDirection": "Under",
+      "totalGap": 0.5
+    },
+    "halfMarket": {
+      "quote": {
+        "provider": "DraftKings",
+        "source": "https://madduxsports.com/college-basketball-lines-1st-half.php",
+        "observed": "2026-11-27T15:08:52.202749+00:00",
+        "spread": [
+          2.5,
+          -2.5
+        ],
+        "total": 68.5,
+        "sideIndex": 1,
+        "spreadGap": 1.5,
+        "totalDirection": "Over",
+        "totalGap": 1.5
+      },
+      "score": [
+        33,
+        37
+      ],
+      "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    }
+  },
+  "401929284": {
+    "tip": "2026-11-28T00:00Z",
+    "captured": "2026-11-27T15:08:38.229203+00:00",
+    "names": [
+      "UCF",
+      "Georgia"
+    ],
+    "projection": {
+      "full": [
+        79,
+        86
+      ],
+      "half": [
+        36,
+        42
+      ],
+      "pace": 70.7,
+      "total": 165,
+      "halfTotal": 78,
+      "margin": 7,
+      "winner": "Georgia"
+    },
+    "market": {
+      "provider": "DraftKings",
+      "observed": "2026-11-27T15:08:45.334038+00:00",
+      "spread": [
+        5.5,
+        -5.5
+      ],
+      "total": 162.5,
+      "side": "Georgia",
+      "sideIndex": 1,
+      "spreadLine": -5.5,
+      "spreadGap": 1.5,
+      "totalDirection": "Over",
+      "totalGap": 2.5
+    },
+    "halfMarket": {
+      "quote": {
+        "provider": "DraftKings",
+        "source": "https://madduxsports.com/college-basketball-lines-1st-half.php",
+        "observed": "2026-11-27T15:08:52.202749+00:00",
+        "spread": [
+          2.5,
+          -2.5
+        ],
+        "total": 77.5,
+        "sideIndex": 1,
+        "spreadGap": 3.5,
+        "totalDirection": "Over",
+        "totalGap": 0.5
+      },
+      "score": [
+        36,
+        42
+      ],
+      "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    }
+  },
+  "401926756": {
+    "tip": "2026-11-28T00:00Z",
+    "captured": "2026-11-27T15:08:38.229203+00:00",
+    "names": [
+      "Lehigh",
+      "UC Santa Barbara"
+    ],
+    "projection": {
+      "full": [
+        71,
+        82
+      ],
+      "half": [
+        35,
+        40
+      ],
+      "pace": 67.7,
+      "total": 153,
+      "halfTotal": 75,
+      "margin": 11,
+      "winner": "UC Santa Barbara"
+    },
+    "market": {
+      "provider": "DraftKings",
+      "observed": "2026-11-27T15:08:45.334038+00:00",
+      "spread": [
+        13.5,
+        -13.5
+      ],
+      "total": 144.5,
+      "side": "Lehigh",
+      "sideIndex": 0,
+      "spreadLine": 13.5,
+      "spreadGap": 2.5,
+      "totalDirection": "Over",
+      "totalGap": 8.5
+    }
+  },
+  "401912711": {
+    "tip": "2026-11-28T00:00Z",
+    "captured": "2026-11-27T15:08:38.229203+00:00",
+    "names": [
+      "West Virginia",
+      "North Carolina"
+    ],
+    "projection": {
+      "full": [
+        76,
+        76
+      ],
+      "half": [
+        37,
+        37
+      ],
+      "pace": 69.6,
+      "total": 152,
+      "halfTotal": 74,
+      "margin": 0,
+      "winner": "Even at displayed precision"
+    },
+    "market": {
+      "provider": "DraftKings",
+      "observed": "2026-11-27T15:08:45.334038+00:00",
+      "spread": [
+        -3.5,
+        3.5
+      ],
+      "total": 149.5,
+      "side": "North Carolina",
+      "sideIndex": 1,
+      "spreadLine": 3.5,
+      "spreadGap": 3.5,
+      "totalDirection": "Over",
+      "totalGap": 2.5
+    },
+    "halfMarket": {
+      "quote": {
+        "provider": "DraftKings",
+        "source": "https://madduxsports.com/college-basketball-lines-1st-half.php",
+        "observed": "2026-11-27T15:08:52.202749+00:00",
+        "spread": [
+          -1.5,
+          1.5
+        ],
+        "total": 69.5,
+        "sideIndex": 1,
+        "spreadGap": 1.5,
+        "totalDirection": "Over",
+        "totalGap": 4.5
+      },
+      "score": [
+        37,
+        37
+      ],
+      "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    }
+  },
+  "401925703": {
+    "tip": "2026-11-28T00:30Z",
+    "captured": "2026-11-27T15:08:38.229203+00:00",
+    "names": [
+      "Oakland",
+      "Houston"
+    ],
+    "projection": {
+      "full": [
+        62,
+        91
+      ],
+      "half": [
+        30,
+        45
+      ],
+      "pace": 67.9,
+      "total": 153,
+      "halfTotal": 75,
+      "margin": 29,
+      "winner": "Houston"
+    },
+    "market": {
+      "provider": "DraftKings",
+      "observed": "2026-11-27T15:08:45.334038+00:00",
+      "spread": [
+        36.5,
+        -36.5
+      ],
+      "total": 145.5,
+      "side": "Oakland",
+      "sideIndex": 0,
+      "spreadLine": 36.5,
+      "spreadGap": 7.5,
+      "totalDirection": "Over",
+      "totalGap": 7.5
+    },
+    "halfMarket": {
+      "quote": {
+        "provider": "DraftKings",
+        "source": "https://madduxsports.com/college-basketball-lines-1st-half.php",
+        "observed": "2026-11-27T15:08:52.202749+00:00",
+        "spread": [
+          19.5,
+          -19.5
+        ],
+        "total": 68.5,
+        "sideIndex": 0,
+        "spreadGap": 4.5,
+        "totalDirection": "Over",
+        "totalGap": 6.5
+      },
+      "score": [
+        30,
+        45
+      ],
+      "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    }
+  },
+  "401928624": {
+    "tip": "2026-11-28T01:00Z",
+    "captured": "2026-11-27T15:08:38.229203+00:00",
+    "names": [
+      "Missouri State",
+      "Oral Roberts"
+    ],
+    "projection": {
+      "full": [
+        72,
+        76
+      ],
+      "half": [
+        34,
+        38
+      ],
+      "pace": 68.3,
+      "total": 148,
+      "halfTotal": 72,
+      "margin": 4,
+      "winner": "Oral Roberts"
+    },
+    "market": {
+      "provider": "DraftKings",
+      "observed": "2026-11-27T15:08:45.334038+00:00",
+      "spread": [
+        4.5,
+        -4.5
+      ],
+      "total": 142.5,
+      "side": "Missouri State",
+      "sideIndex": 0,
+      "spreadLine": 4.5,
+      "spreadGap": 0.5,
+      "totalDirection": "Over",
+      "totalGap": 5.5
+    },
+    "halfMarket": {
+      "quote": {
+        "provider": "DraftKings",
+        "source": "https://madduxsports.com/college-basketball-lines-1st-half.php",
+        "observed": "2026-11-27T15:08:52.202749+00:00",
+        "spread": [
+          2.5,
+          -2.5
+        ],
+        "total": 66.5,
+        "sideIndex": 1,
+        "spreadGap": 1.5,
+        "totalDirection": "Over",
+        "totalGap": 5.5
+      },
+      "score": [
+        34,
+        38
+      ],
+      "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    }
+  },
+  "401922264": {
+    "tip": "2026-11-28T01:00Z",
+    "captured": "2026-11-27T15:08:38.229203+00:00",
+    "names": [
+      "Idaho",
+      "Washington State"
+    ],
+    "projection": {
+      "full": [
+        74,
+        80
+      ],
+      "half": [
+        36,
+        38
+      ],
+      "pace": 68.2,
+      "total": 154,
+      "halfTotal": 74,
+      "margin": 6,
+      "winner": "Washington State"
+    },
+    "market": {
+      "provider": "DraftKings",
+      "observed": "2026-11-27T15:08:45.334038+00:00",
+      "spread": [
+        11.5,
+        -11.5
+      ],
+      "total": 148.5,
+      "side": "Idaho",
+      "sideIndex": 0,
+      "spreadLine": 11.5,
+      "spreadGap": 5.5,
+      "totalDirection": "Over",
+      "totalGap": 5.5
+    },
+    "halfMarket": {
+      "quote": {
+        "provider": "DraftKings",
+        "source": "https://madduxsports.com/college-basketball-lines-1st-half.php",
+        "observed": "2026-11-27T15:08:52.202749+00:00",
+        "spread": [
+          6.5,
+          -6.5
+        ],
+        "total": 69.5,
+        "sideIndex": 0,
+        "spreadGap": 4.5,
+        "totalDirection": "Over",
+        "totalGap": 4.5
+      },
+      "score": [
+        36,
+        38
+      ],
+      "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    }
+  },
+  "401920737": {
+    "tip": "2026-11-28T01:00Z",
+    "captured": "2026-11-27T15:08:38.229203+00:00",
+    "names": [
+      "Northeastern",
+      "Northwestern"
+    ],
+    "projection": {
+      "full": [
+        70,
+        80
+      ],
+      "half": [
+        33,
+        39
+      ],
+      "pace": 67.7,
+      "total": 150,
+      "halfTotal": 72,
+      "margin": 10,
+      "winner": "Northwestern"
+    },
+    "market": {
+      "provider": "DraftKings",
+      "observed": "2026-11-27T15:08:45.334038+00:00",
+      "spread": [
+        12.5,
+        -12.5
+      ],
+      "total": 147.5,
+      "side": "Northeastern",
+      "sideIndex": 0,
+      "spreadLine": 12.5,
+      "spreadGap": 2.5,
+      "totalDirection": "Over",
+      "totalGap": 2.5
+    },
+    "halfMarket": {
+      "quote": {
+        "provider": "DraftKings",
+        "source": "https://madduxsports.com/college-basketball-lines-1st-half.php",
+        "observed": "2026-11-27T15:08:52.202749+00:00",
+        "spread": [
+          7.5,
+          -7.5
+        ],
+        "total": 69.5,
+        "sideIndex": 0,
+        "spreadGap": 1.5,
+        "totalDirection": "Over",
+        "totalGap": 2.5
+      },
+      "score": [
+        33,
+        39
+      ],
+      "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    }
+  },
+  "401911524": {
+    "tip": "2026-11-28T01:00Z",
+    "captured": "2026-11-27T15:08:38.229203+00:00",
+    "names": [
+      "Pacific",
+      "UC Davis"
+    ],
+    "projection": {
+      "full": [
+        73,
+        68
+      ],
+      "half": [
+        37,
+        32
+      ],
+      "pace": 68.3,
+      "total": 141,
+      "halfTotal": 69,
+      "margin": 5,
+      "winner": "Pacific"
+    },
+    "market": {
+      "provider": "DraftKings",
+      "observed": "2026-11-27T15:08:45.334038+00:00",
+      "spread": [
+        -7.5,
+        7.5
+      ],
+      "total": 138.5,
+      "side": "UC Davis",
+      "sideIndex": 1,
+      "spreadLine": 7.5,
+      "spreadGap": 2.5,
+      "totalDirection": "Over",
+      "totalGap": 2.5
+    },
+    "halfMarket": {
+      "quote": {
+        "provider": "DraftKings",
+        "source": "https://madduxsports.com/college-basketball-lines-1st-half.php",
+        "observed": "2026-11-27T15:08:52.202749+00:00",
+        "spread": [
+          -3.5,
+          3.5
+        ],
+        "total": 65.5,
+        "sideIndex": 0,
+        "spreadGap": 1.5,
+        "totalDirection": "Over",
+        "totalGap": 3.5
+      },
+      "score": [
+        37,
+        32
+      ],
+      "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    }
+  },
+  "401920543": {
+    "tip": "2026-11-28T01:30Z",
+    "captured": "2026-11-27T15:08:38.229203+00:00",
+    "names": [
+      "Miami",
+      "Alabama"
+    ],
+    "projection": {
+      "full": [
+        83,
+        84
+      ],
+      "half": [
+        41,
+        40
+      ],
+      "pace": 73.4,
+      "total": 167,
+      "halfTotal": 81,
+      "margin": 1,
+      "winner": "Alabama"
+    },
+    "market": {
+      "provider": "DraftKings",
+      "observed": "2026-11-27T15:08:45.334038+00:00",
+      "spread": [
+        -2.5,
+        2.5
+      ],
+      "total": 170.5,
+      "side": "Alabama",
+      "sideIndex": 1,
+      "spreadLine": 2.5,
+      "spreadGap": 3.5,
+      "totalDirection": "Under",
+      "totalGap": 3.5
+    },
+    "halfMarket": {
+      "quote": {
+        "provider": "DraftKings",
+        "source": "https://madduxsports.com/college-basketball-lines-1st-half.php",
+        "observed": "2026-11-27T15:08:52.202749+00:00",
+        "spread": [
+          -1.5,
+          1.5
+        ],
+        "total": 80.5,
+        "sideIndex": 1,
+        "spreadGap": 0.5,
+        "totalDirection": "Over",
+        "totalGap": 0.5
+      },
+      "score": [
+        41,
+        40
+      ],
+      "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    }
+  },
+  "401920534": {
+    "tip": "2026-11-28T02:00Z",
+    "captured": "2026-11-27T15:08:38.229203+00:00",
+    "names": [
+      "Tennessee",
+      "Louisville"
+    ],
+    "projection": {
+      "full": [
+        75,
+        78
+      ],
+      "half": [
+        36,
+        40
+      ],
+      "pace": 68.9,
+      "total": 153,
+      "halfTotal": 76,
+      "margin": 3,
+      "winner": "Louisville"
+    },
+    "market": {
+      "provider": "DraftKings",
+      "observed": "2026-11-27T15:08:45.334038+00:00",
+      "spread": [
+        2.5,
+        -2.5
+      ],
+      "total": 149.5,
+      "side": "Louisville",
+      "sideIndex": 1,
+      "spreadLine": -2.5,
+      "spreadGap": 0.5,
+      "totalDirection": "Over",
+      "totalGap": 3.5
+    },
+    "halfMarket": {
+      "quote": {
+        "provider": "DraftKings",
+        "source": "https://madduxsports.com/college-basketball-lines-1st-half.php",
+        "observed": "2026-11-27T15:08:52.202749+00:00",
+        "spread": [
+          0.5,
+          -0.5
+        ],
+        "total": 70.5,
+        "sideIndex": 1,
+        "spreadGap": 3.5,
+        "totalDirection": "Over",
+        "totalGap": 5.5
+      },
+      "score": [
+        36,
+        40
+      ],
+      "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    }
+  },
+  "401919033": {
+    "tip": "2026-11-28T02:00Z",
+    "captured": "2026-11-27T15:08:38.229203+00:00",
+    "names": [
+      "Wichita State",
+      "Kentucky"
+    ],
+    "projection": {
+      "full": [
+        79,
+        80
+      ],
+      "half": [
+        39,
+        40
+      ],
+      "pace": 69.3,
+      "total": 159,
+      "halfTotal": 79,
+      "margin": 1,
+      "winner": "Kentucky"
+    },
+    "market": {
+      "provider": "DraftKings",
+      "observed": "2026-11-27T15:08:45.334038+00:00",
+      "spread": [
+        4.5,
+        -4.5
+      ],
+      "total": 157.5,
+      "side": "Wichita State",
+      "sideIndex": 0,
+      "spreadLine": 4.5,
+      "spreadGap": 3.5,
+      "totalDirection": "Over",
+      "totalGap": 1.5
+    },
+    "halfMarket": {
+      "quote": {
+        "provider": "DraftKings",
+        "source": "https://madduxsports.com/college-basketball-lines-1st-half.php",
+        "observed": "2026-11-27T15:08:52.202749+00:00",
+        "spread": [
+          2.5,
+          -2.5
+        ],
+        "total": 73.5,
+        "sideIndex": 0,
+        "spreadGap": 1.5,
+        "totalDirection": "Over",
+        "totalGap": 5.5
+      },
+      "score": [
+        39,
+        40
+      ],
+      "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    }
+  },
+  "401926783": {
+    "tip": "2026-11-28T03:30Z",
+    "captured": "2026-11-27T15:08:38.229203+00:00",
+    "names": [
+      "Jacksonville State",
+      "Omaha"
+    ],
+    "projection": {
+      "full": [
+        76,
+        69
+      ],
+      "half": [
+        37,
+        32
+      ],
+      "pace": 66.5,
+      "total": 145,
+      "halfTotal": 69,
+      "margin": 7,
+      "winner": "Jacksonville State"
+    },
+    "market": {
+      "provider": "DraftKings",
+      "observed": "2026-11-27T15:08:45.334038+00:00",
+      "spread": [
+        -5.5,
+        5.5
+      ],
+      "total": 142.5,
+      "side": "Jacksonville State",
+      "sideIndex": 0,
+      "spreadLine": -5.5,
+      "spreadGap": 1.5,
+      "totalDirection": "Over",
+      "totalGap": 2.5
+    },
+    "halfMarket": {
+      "quote": {
+        "provider": "DraftKings",
+        "source": "https://madduxsports.com/college-basketball-lines-1st-half.php",
+        "observed": "2026-11-27T15:08:52.202749+00:00",
+        "spread": [
+          -2.5,
+          2.5
+        ],
+        "total": 67.5,
+        "sideIndex": 0,
+        "spreadGap": 2.5,
+        "totalDirection": "Over",
+        "totalGap": 1.5
+      },
+      "score": [
+        37,
+        32
+      ],
+      "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    }
+  },
+  "401920544": {
+    "tip": "2026-11-28T04:00Z",
+    "captured": "2026-11-27T15:08:38.229203+00:00",
+    "names": [
+      "Creighton",
+      "Gonzaga"
+    ],
+    "projection": {
+      "full": [
+        78,
+        83
+      ],
+      "half": [
+        40,
+        41
+      ],
+      "pace": 70.4,
+      "total": 161,
+      "halfTotal": 81,
+      "margin": 5,
+      "winner": "Gonzaga"
+    },
+    "market": {
+      "provider": "DraftKings",
+      "observed": "2026-11-27T15:08:45.334038+00:00",
+      "spread": [
+        6.5,
+        -6.5
+      ],
+      "total": 159.5,
+      "side": "Creighton",
+      "sideIndex": 0,
+      "spreadLine": 6.5,
+      "spreadGap": 1.5,
+      "totalDirection": "Over",
+      "totalGap": 1.5
+    },
+    "halfMarket": {
+      "quote": {
+        "provider": "DraftKings",
+        "source": "https://madduxsports.com/college-basketball-lines-1st-half.php",
+        "observed": "2026-11-27T15:08:52.202749+00:00",
+        "spread": [
+          3.5,
+          -3.5
+        ],
+        "total": 76.5,
+        "sideIndex": 0,
+        "spreadGap": 2.5,
+        "totalDirection": "Over",
+        "totalGap": 4.5
+      },
+      "score": [
+        40,
+        41
+      ],
+      "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    }
+  },
+  "401920535": {
+    "tip": "2026-11-28T04:30Z",
+    "captured": "2026-11-27T15:08:38.229203+00:00",
+    "names": [
+      "San Diego State",
+      "Texas Tech"
+    ],
+    "projection": {
+      "full": [
+        71,
+        75
+      ],
+      "half": [
+        35,
+        38
+      ],
+      "pace": 68.2,
+      "total": 146,
+      "halfTotal": 73,
+      "margin": 4,
+      "winner": "Texas Tech"
+    },
+    "market": {
+      "provider": "DraftKings",
+      "observed": "2026-11-27T15:08:45.334038+00:00",
+      "spread": [
+        7.5,
+        -7.5
+      ],
+      "total": 143.5,
+      "side": "San Diego State",
+      "sideIndex": 0,
+      "spreadLine": 7.5,
+      "spreadGap": 3.5,
+      "totalDirection": "Over",
+      "totalGap": 2.5
+    },
+    "halfMarket": {
+      "quote": {
+        "provider": "DraftKings",
+        "source": "https://madduxsports.com/college-basketball-lines-1st-half.php",
+        "observed": "2026-11-27T15:08:52.202749+00:00",
+        "spread": [
+          4.5,
+          -4.5
+        ],
+        "total": 66.5,
+        "sideIndex": 0,
+        "spreadGap": 1.5,
+        "totalDirection": "Over",
+        "totalGap": 6.5
+      },
+      "score": [
+        35,
+        38
+      ],
+      "projectedAt": "2026-11-27T15:08:38.229203+00:00"
     }
   }
 }

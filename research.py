@@ -184,7 +184,7 @@ def assess(t):
     if sum(p['role']=='Projected starter' for p in players)<5: alerts.append('Fewer than five starters could be projected from available evidence.')
     for p in players:
         if p['status'] not in ('Unconfirmed','Out','Out for season'): alerts.append(f"{p['name']} is a game-time decision. Minutes are conditional on playing.")
-    return dict(name=name, id=tid, logo=club['logo'], players=players, top=top, alerts=alerts,
+    return dict(name=name, id=tid, logo=club.get('logo',''), players=players, top=top, alerts=alerts,
                 availability=source and {k:source[k] for k in ('source','checked')}, lastStarters=[names[k] for k in observed],
                 stats=dict(sample=len(games), adjO=rounded(rating[4]) if rating else None,adjD=rounded(rating[6]) if rating else None,
                 pace=rounded(rating[-1]) if rating else None, sos=rounded(mean(r[4]-r[6] for r in opp_ratings)) if opp_ratings else None,
