@@ -43,15 +43,36 @@ def download(root, target, url, cache=False):
             return json.loads(path.read_text())
         return {}
 
+def gather_ratings(root, day):
+    year = season(day)
+    cache = DATA / f'torvik-{year}.json'
+    url = f'https://barttorvik.com/{year}_team_results.json'
+    try:
+        rows = json.loads(fetch(url))
+        if not isinstance(rows, list) or not rows or not all(
+            isinstance(row, list) and len(row) >= 8 and isinstance(row[1], str)
+            and all(isinstance(row[i], (int, float)) for i in (4, 6, -1))
+            for row in rows
+        ):
+            raise ValueError('Unexpected team ratings format')
+        cached = dict(observed=datetime.now(timezone.utc).isoformat(), rows=rows)
+        cache.write_text(json.dumps(cached, separators=(',', ':')) + '\n')
+        observed = None
+    except (OSError, ValueError) as exc:
+        print(f'{url}: {exc}')
+        cached = json.loads(cache.read_text()) if cache.exists() else dict(rows=[], observed=None)
+        observed = cached['observed']
+        print(f'Using ratings retrieved at {observed}.' if observed else 'No saved season ratings available.')
+    write_json(root/'torvik.json', cached['rows'])
+    return observed
+
+
 def gather(root, day):
     (root/'raw').mkdir(parents=True, exist_ok=True)
     slate = scoreboard(day)
     write_json(root/'espn.json',slate)
     teams = {t['id'] for e in slate['events'] for t in e['competitions'][0]['competitors']}
-    ratings = download(root,'torvik.json',f'https://barttorvik.com/{season(day)}_team_results.json')
-    if not ratings:
-        print('Ratings feed unavailable. Refreshing lineup and results without new score projections.')
-        write_json(root/'torvik.json', [])
+    ratings_as_of = gather_ratings(root, day)
     for path in root.glob('rw*.html'):
         path.unlink()
     lineups = download(root,'rw.html',RW)
@@ -65,7 +86,7 @@ def gather(root, day):
         boxes=[pool.submit(download,root,f'raw/game{i}.json',f'{BASE}/summary?event={i}',True) for i in games]
         for job in lineup_jobs+boxes:
             job.result()
-    return slate
+    return ratings_as_of
 
 def attach_markets(board, slate, stamp):
     events={e['id']:e for e in slate['events']}
@@ -141,16 +162,23 @@ def attach_first_half(board, page, stamp):
 def archive(board, prior_boards):
     path=DATA/'history.json'
     history=json.loads(path.read_text()) if path.exists() else {}
-    captured=datetime.fromisoformat(board['captured'])
     for game in board['matchups']:
-        if not game['projection'] or captured>=datetime.fromisoformat(game['tip']):
+        captured=game.get('projectionAsOf', board['captured'])
+        tip=datetime.fromisoformat(game['tip'])
+        if not game['projection'] or datetime.fromisoformat(captured)>=tip:
             continue
-        history.setdefault(game['id'],dict(tip=game['tip'],captured=board['captured'], names=[t['name'] for t in game['teams']],
-            projection=game['projection'], market=game.get('market')))
-        if game.get('halfMarket'):
+        market=game.get('market')
+        if market and datetime.fromisoformat(market['observed'])>=tip:
+            market=None
+        receipt=dict(tip=game['tip'],captured=captured, names=[t['name'] for t in game['teams']],
+            projection=game['projection'], market=market)
+        if game.get('ratingsAsOf'):
+            receipt['ratingsAsOf']=game['ratingsAsOf']
+        history.setdefault(game['id'],receipt)
+        if game.get('halfMarket') and datetime.fromisoformat(game['halfMarket']['observed'])<tip:
             receipt=history[game['id']]
             receipt.setdefault('halfMarket',dict(quote=game['halfMarket'],score=game['projection']['half'],
-                projectedAt=board['captured']))
+                projectedAt=captured))
     for slate in prior_boards:
         for event in slate['events']:
             receipt=history.get(event['id'])
@@ -188,9 +216,15 @@ def main():
     root=Path(os.environ.get('IQ_INPUTS', PROJECT/'inputs')).resolve()
     root.mkdir(parents=True,exist_ok=True)
     os.environ.update(IQ_INPUTS=str(root),IQ_DATE=day.isoformat())
-    gather(root,day.isoformat())
+    ratings_as_of=gather(root,day.isoformat())
     import research
     board=research.build()
+    if ratings_as_of:
+        for game in board['matchups']:
+            if game['projection']:
+                game['ratingsAsOf']=ratings_as_of
+                for team in game['teams']:
+                    team['alerts'].append('Bart Torvik ratings retrieved at '+ratings_as_of)
     fresh=scoreboard(day.isoformat())
     stamp=datetime.now(timezone.utc)
     fallback_path=DATA/'pregame'/f'{day.isoformat()}.json'
@@ -201,9 +235,11 @@ def main():
             prior=saved.get(game['id'])
             if game['projection'] is None and prior and prior.get('projection') and stamp<datetime.fromisoformat(game['tip']):
                 game.update({k:prior[k] for k in ('projection','teams','comparison')})
-                game['projectionAsOf']=fallback['captured']
+                game['projectionAsOf']=prior.get('projectionAsOf', fallback['captured'])
+                if prior.get('ratingsAsOf'):
+                    game['ratingsAsOf']=prior['ratingsAsOf']
                 for team in game['teams']:
-                    team['alerts'].append('Ratings unavailable: projection retained from '+fallback['captured'])
+                    team['alerts'].append('Ratings unavailable: projection retained from '+game['projectionAsOf'])
     fresh_events={e['id']:e for e in fresh['events']}
     for game in board['matchups']:
         event=fresh_events.get(game['id'])
@@ -219,7 +255,21 @@ def main():
     snapshot.parent.mkdir(exist_ok=True)
     if not snapshot.exists():
         write_json(snapshot,board)
-    archive(board,[fresh,scoreboard((day-timedelta(days=1)).isoformat())])
+    else:
+        # Keep each game's first forecast, including games missing from the initial slate.
+        saved={game['id']:game for game in fallback.get('matchups',[])}
+        for game in board['matchups']:
+            prior=saved.get(game['id'])
+            if game['projection'] and (not prior or not prior['projection']):
+                saved[game['id']]=dict(game, projectionAsOf=game.get('projectionAsOf', board['captured']))
+        if list(saved.values())!=fallback.get('matchups',[]):
+            write_json(snapshot,dict(fallback, matchups=list(saved.values())))
+    prior_boards=[fresh]
+    try:
+        prior_boards.append(scoreboard((day-timedelta(days=1)).isoformat()))
+    except (OSError, ValueError) as exc:
+        print(f'Previous-day scoreboard: {exc}')
+    archive(board,prior_boards)
     from postgame import run
     run()
     write_json(DATA/'board.json',board)
