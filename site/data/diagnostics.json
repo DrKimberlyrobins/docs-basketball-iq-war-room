@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-28T09:29:21.152144+00:00",
+  "updated": "2026-11-28T17:50:09.708367+00:00",
   "games": {
     "401929281": {
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401929281",
       "sourceFile": "data/evidence/401929281.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.120064+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:08.789565+00:00",
       "date": "2026-11-26",
       "names": [
         "Georgia",
@@ -863,7 +863,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401912231",
       "sourceFile": "data/evidence/401912231.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.124064+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:08.789565+00:00",
       "date": "2026-11-26",
       "names": [
         "Army",
@@ -1805,7 +1805,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401906807",
       "sourceFile": "data/evidence/401906807.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.125064+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:08.784561+00:00",
       "date": "2026-11-26",
       "names": [
         "Oklahoma",
@@ -2635,7 +2635,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401920528",
       "sourceFile": "data/evidence/401920528.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.133064+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:08.771551+00:00",
       "date": "2026-11-26",
       "names": [
         "San Diego State",
@@ -3475,7 +3475,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401929282",
       "sourceFile": "data/evidence/401929282.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.134064+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:08.794569+00:00",
       "date": "2026-11-26",
       "names": [
         "Boston College",
@@ -4319,7 +4319,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401921674",
       "sourceFile": "data/evidence/401921674.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.134064+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:08.784561+00:00",
       "date": "2026-11-26",
       "names": [
         "South Carolina",
@@ -5101,7 +5101,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401906869",
       "sourceFile": "data/evidence/401906869.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.143064+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:08.789565+00:00",
       "date": "2026-11-26",
       "names": [
         "Georgetown",
@@ -5893,7 +5893,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401920529",
       "sourceFile": "data/evidence/401920529.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.153064+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:08.790246+00:00",
       "date": "2026-11-26",
       "names": [
         "Tennessee",
@@ -6719,7 +6719,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401920537",
       "sourceFile": "data/evidence/401920537.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.157064+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:08.828595+00:00",
       "date": "2026-11-26",
       "names": [
         "Miami",
@@ -7601,7 +7601,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401925757",
       "sourceFile": "data/evidence/401925757.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.162064+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:08.836601+00:00",
       "date": "2026-11-26",
       "names": [
         "Arkansas",
@@ -8435,7 +8435,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401921673",
       "sourceFile": "data/evidence/401921673.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.163064+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:08.837128+00:00",
       "date": "2026-11-26",
       "names": [
         "Utah State",
@@ -9217,7 +9217,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401917547",
       "sourceFile": "data/evidence/401917547.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.162064+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:08.837128+00:00",
       "date": "2026-11-26",
       "names": [
         "Saint Mary's",
@@ -9991,7 +9991,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401920538",
       "sourceFile": "data/evidence/401920538.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.189064+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:08.847610+00:00",
       "date": "2026-11-26",
       "names": [
         "TCU",
@@ -10807,7 +10807,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401918972",
       "sourceFile": "data/evidence/401918972.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.177064+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:08.847610+00:00",
       "date": "2026-11-26",
       "names": [
         "SMU",
@@ -11585,7 +11585,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401909506",
       "sourceFile": "data/evidence/401909506.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.174064+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:08.843607+00:00",
       "date": "2026-11-26",
       "names": [
         "DePaul",
@@ -12383,7 +12383,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401911523",
       "sourceFile": "data/evidence/401911523.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.191064+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:08.836601+00:00",
       "date": "2026-11-26",
       "names": [
         "Jacksonville State",
@@ -13175,7 +13175,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401920530",
       "sourceFile": "data/evidence/401920530.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.201064+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:08.897649+00:00",
       "date": "2026-11-26",
       "names": [
         "Louisville",
@@ -13957,7 +13957,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401920539",
       "sourceFile": "data/evidence/401920539.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.202064+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:08.892645+00:00",
       "date": "2026-11-26",
       "names": [
         "Alabama",
@@ -14795,7 +14795,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401917546",
       "sourceFile": "data/evidence/401917546.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.194064+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:08.873630+00:00",
       "date": "2026-11-26",
       "names": [
         "Pacific",
@@ -15583,7 +15583,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401920531",
       "sourceFile": "data/evidence/401920531.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.200064+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:08.885639+00:00",
       "date": "2026-11-26",
       "names": [
         "Texas Tech",
@@ -16389,7 +16389,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401920540",
       "sourceFile": "data/evidence/401920540.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.202877+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:08.920666+00:00",
       "date": "2026-11-26",
       "names": [
         "Baylor",
@@ -17167,7 +17167,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401920429",
       "sourceFile": "data/evidence/401920429.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.218064+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:08.901652+00:00",
       "date": "2026-11-27",
       "names": [
         "Virginia",
@@ -18065,7 +18065,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401920848",
       "sourceFile": "data/evidence/401920848.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.218064+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:08.905655+00:00",
       "date": "2026-11-27",
       "names": [
         "Liberty",
@@ -18857,7 +18857,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401920533",
       "sourceFile": "data/evidence/401920533.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.221064+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:08.909658+00:00",
       "date": "2026-11-27",
       "names": [
         "St. John's",
@@ -19673,7 +19673,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401924810",
       "sourceFile": "data/evidence/401924810.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.257064+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:08.919666+00:00",
       "date": "2026-11-27",
       "names": [
         "Vermont",
@@ -20465,7 +20465,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401921416",
       "sourceFile": "data/evidence/401921416.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.246064+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:08.947687+00:00",
       "date": "2026-11-27",
       "names": [
         "Hampton",
@@ -21275,7 +21275,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401929288",
       "sourceFile": "data/evidence/401929288.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.250064+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:08.949689+00:00",
       "date": "2026-11-27",
       "names": [
         "Wake Forest",
@@ -22133,7 +22133,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401921827",
       "sourceFile": "data/evidence/401921827.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.235064+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:08.959697+00:00",
       "date": "2026-11-27",
       "names": [
         "Southern",
@@ -23075,7 +23075,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401929181",
       "sourceFile": "data/evidence/401929181.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.250064+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:08.969700+00:00",
       "date": "2026-11-27",
       "names": [
         "South Alabama",
@@ -23474,7 +23474,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401921224",
       "sourceFile": "data/evidence/401921224.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.266064+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:09.018700+00:00",
       "date": "2026-11-27",
       "names": [
         "Navy",
@@ -24498,7 +24498,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401919786",
       "sourceFile": "data/evidence/401919786.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.259064+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:09.013700+00:00",
       "date": "2026-11-27",
       "names": [
         "Maine",
@@ -25328,7 +25328,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401921717",
       "sourceFile": "data/evidence/401921717.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.259064+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:09.015700+00:00",
       "date": "2026-11-27",
       "names": [
         "Georgetown",
@@ -26106,7 +26106,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401928468",
       "sourceFile": "data/evidence/401928468.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.266889+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:09.018700+00:00",
       "date": "2026-11-27",
       "names": [
         "Texas State",
@@ -26930,7 +26930,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401924738",
       "sourceFile": "data/evidence/401924738.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.316064+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:09.018700+00:00",
       "date": "2026-11-27",
       "names": [
         "Princeton",
@@ -27757,7 +27757,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401920542",
       "sourceFile": "data/evidence/401920542.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.325064+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:09.018700+00:00",
       "date": "2026-11-27",
       "names": [
         "TCU",
@@ -28572,7 +28572,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401902282",
       "sourceFile": "data/evidence/401902282.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.326064+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:09.018700+00:00",
       "date": "2026-11-27",
       "names": [
         "Bellarmine",
@@ -29486,7 +29486,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401921417",
       "sourceFile": "data/evidence/401921417.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.348064+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:09.110700+00:00",
       "date": "2026-11-27",
       "names": [
         "La Salle",
@@ -30356,7 +30356,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401920774",
       "sourceFile": "data/evidence/401920774.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.326064+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:09.110700+00:00",
       "date": "2026-11-27",
       "names": [
         "Colgate",
@@ -31197,7 +31197,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401920532",
       "sourceFile": "data/evidence/401920532.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.347064+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:09.106700+00:00",
       "date": "2026-11-27",
       "names": [
         "Oregon",
@@ -32092,7 +32092,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401921818",
       "sourceFile": "data/evidence/401921818.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.333064+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:09.133700+00:00",
       "date": "2026-11-27",
       "names": [
         "Arkansas-Pine Bluff",
@@ -32935,7 +32935,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401912213",
       "sourceFile": "data/evidence/401912213.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.332064+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:09.137700+00:00",
       "date": "2026-11-27",
       "names": [
         "Radford",
@@ -33736,7 +33736,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401911212",
       "sourceFile": "data/evidence/401911212.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.341063+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:09.161700+00:00",
       "date": "2026-11-27",
       "names": [
         "UMBC",
@@ -34625,7 +34625,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401929283",
       "sourceFile": "data/evidence/401929283.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.399064+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:09.135700+00:00",
       "date": "2026-11-27",
       "names": [
         "Cincinnati",
@@ -35455,7 +35455,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401924845",
       "sourceFile": "data/evidence/401924845.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.412063+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:09.137700+00:00",
       "date": "2026-11-27",
       "names": [
         "Niagara",
@@ -36359,7 +36359,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401921718",
       "sourceFile": "data/evidence/401921718.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.427063+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:09.184700+00:00",
       "date": "2026-11-27",
       "names": [
         "Texas",
@@ -37161,7 +37161,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401909789",
       "sourceFile": "data/evidence/401909789.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.412063+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:09.208700+00:00",
       "date": "2026-11-27",
       "names": [
         "Villanova",
@@ -37963,7 +37963,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401920810",
       "sourceFile": "data/evidence/401920810.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.445063+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:09.210114+00:00",
       "date": "2026-11-27",
       "names": [
         "Marquette",
@@ -38841,7 +38841,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401920382",
       "sourceFile": "data/evidence/401920382.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.433064+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:09.210700+00:00",
       "date": "2026-11-27",
       "names": [
         "Old Dominion",
@@ -39667,7 +39667,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401927366",
       "sourceFile": "data/evidence/401927366.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.449063+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:09.219700+00:00",
       "date": "2026-11-27",
       "names": [
         "Drake",
@@ -40501,7 +40501,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401920541",
       "sourceFile": "data/evidence/401920541.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.459618+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:09.226700+00:00",
       "date": "2026-11-27",
       "names": [
         "Michigan",
@@ -41387,7 +41387,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401913531",
       "sourceFile": "data/evidence/401913531.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.477063+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:09.270700+00:00",
       "date": "2026-11-27",
       "names": [
         "Western Kentucky",
@@ -42267,7 +42267,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401911030",
       "sourceFile": "data/evidence/401911030.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.478063+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:09.272700+00:00",
       "date": "2026-11-27",
       "names": [
         "Bowling Green",
@@ -43233,7 +43233,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401921185",
       "sourceFile": "data/evidence/401921185.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.597063+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:09.281700+00:00",
       "date": "2026-11-27",
       "names": [
         "Towson",
@@ -44079,7 +44079,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401929284",
       "sourceFile": "data/evidence/401929284.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.550063+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:09.270700+00:00",
       "date": "2026-11-27",
       "names": [
         "UCF",
@@ -44937,7 +44937,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401926756",
       "sourceFile": "data/evidence/401926756.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.551272+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:09.320700+00:00",
       "date": "2026-11-27",
       "names": [
         "Lehigh",
@@ -45874,7 +45874,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401912711",
       "sourceFile": "data/evidence/401912711.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.582063+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:09.294700+00:00",
       "date": "2026-11-27",
       "names": [
         "West Virginia",
@@ -46690,7 +46690,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401925703",
       "sourceFile": "data/evidence/401925703.json",
-      "evidenceSavedAt": "2026-11-28T09:29:21.140062+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:09.320700+00:00",
       "date": "2026-11-27",
       "names": [
         "Oakland",
@@ -47566,7 +47566,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401928624",
       "sourceFile": "data/evidence/401928624.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.570969+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:09.340700+00:00",
       "date": "2026-11-27",
       "names": [
         "Missouri State",
@@ -48372,7 +48372,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401922264",
       "sourceFile": "data/evidence/401922264.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.613587+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:09.372700+00:00",
       "date": "2026-11-27",
       "names": [
         "Idaho",
@@ -49226,7 +49226,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401920737",
       "sourceFile": "data/evidence/401920737.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.593557+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:09.476700+00:00",
       "date": "2026-11-27",
       "names": [
         "Northeastern",
@@ -49687,7 +49687,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401911524",
       "sourceFile": "data/evidence/401911524.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.641052+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:09.466700+00:00",
       "date": "2026-11-27",
       "names": [
         "Pacific",
@@ -50559,7 +50559,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401920543",
       "sourceFile": "data/evidence/401920543.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.737470+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:09.466700+00:00",
       "date": "2026-11-27",
       "names": [
         "Miami",
@@ -51371,7 +51371,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401920534",
       "sourceFile": "data/evidence/401920534.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.677801+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:09.485700+00:00",
       "date": "2026-11-27",
       "names": [
         "Tennessee",
@@ -52191,7 +52191,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401919033",
       "sourceFile": "data/evidence/401919033.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.668503+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:09.466700+00:00",
       "date": "2026-11-27",
       "names": [
         "Wichita State",
@@ -53021,7 +53021,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401926783",
       "sourceFile": "data/evidence/401926783.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.689307+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:09.466700+00:00",
       "date": "2026-11-27",
       "names": [
         "Jacksonville State",
@@ -53841,7 +53841,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401920544",
       "sourceFile": "data/evidence/401920544.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.707712+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:09.466700+00:00",
       "date": "2026-11-27",
       "names": [
         "Creighton",
@@ -54633,7 +54633,7 @@
       "status": "Verified final from ESPN",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401920535",
       "sourceFile": "data/evidence/401920535.json",
-      "evidenceSavedAt": "2026-11-28T09:29:20.718092+00:00",
+      "evidenceSavedAt": "2026-11-28T17:50:09.466700+00:00",
       "date": "2026-11-27",
       "names": [
         "San Diego State",
@@ -55420,6 +55420,222 @@
         "Pac-12 Conference"
       ],
       "lineVerification": "Original book, line and observation timestamp preserved in receipt. Raw sportsbook response was not archived; independent quote authenticity remains unverified."
+    },
+    "401920890": {
+      "status": "Not final",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401920890"
+    },
+    "401920849": {
+      "status": "Not final",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401920849"
+    },
+    "401918961": {
+      "status": "Not final",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401918961"
+    },
+    "401927389": {
+      "status": "Pregame; awaiting final",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401927389"
+    },
+    "401926212": {
+      "status": "Pregame; awaiting final",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401926212"
+    },
+    "401921414": {
+      "status": "Pregame; awaiting final",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401921414"
+    },
+    "401920775": {
+      "status": "Pregame; awaiting final",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401920775"
+    },
+    "401920310": {
+      "status": "Pregame; awaiting final",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401920310"
+    },
+    "401911395": {
+      "status": "Pregame; awaiting final",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401911395"
+    },
+    "401926757": {
+      "status": "Pregame; awaiting final",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401926757"
+    },
+    "401924779": {
+      "status": "Pregame; awaiting final",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401924779"
+    },
+    "401922224": {
+      "status": "Pregame; awaiting final",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401922224"
+    },
+    "401921245": {
+      "status": "Pregame; awaiting final",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401921245"
+    },
+    "401921158": {
+      "status": "Pregame; awaiting final",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401921158"
+    },
+    "401921031": {
+      "status": "Pregame; awaiting final",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401921031"
+    },
+    "401920977": {
+      "status": "Pregame; awaiting final",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401920977"
+    },
+    "401920859": {
+      "status": "Pregame; awaiting final",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401920859"
+    },
+    "401920728": {
+      "status": "Pregame; awaiting final",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401920728"
+    },
+    "401920415": {
+      "status": "Pregame; awaiting final",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401920415"
+    },
+    "401920350": {
+      "status": "Pregame; awaiting final",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401920350"
+    },
+    "401920077": {
+      "status": "Pregame; awaiting final",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401920077"
+    },
+    "401919787": {
+      "status": "Pregame; awaiting final",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401919787"
+    },
+    "401919736": {
+      "status": "Pregame; awaiting final",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401919736"
+    },
+    "401911202": {
+      "status": "Pregame; awaiting final",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401911202"
+    },
+    "401929048": {
+      "status": "Pregame; awaiting final",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401929048"
+    },
+    "401928848": {
+      "status": "Pregame; awaiting final",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401928848"
+    },
+    "401926796": {
+      "status": "Pregame; awaiting final",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401926796"
+    },
+    "401926229": {
+      "status": "Pregame; awaiting final",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401926229"
+    },
+    "401924913": {
+      "status": "Pregame; awaiting final",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401924913"
+    },
+    "401920917": {
+      "status": "Pregame; awaiting final",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401920917"
+    },
+    "401911312": {
+      "status": "Pregame; awaiting final",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401911312"
+    },
+    "401929172": {
+      "status": "Pregame; awaiting final",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401929172"
+    },
+    "401924811": {
+      "status": "Pregame; awaiting final",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401924811"
+    },
+    "401911032": {
+      "status": "Pregame; awaiting final",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401911032"
+    },
+    "401926218": {
+      "status": "Pregame; awaiting final",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401926218"
+    },
+    "401920924": {
+      "status": "Pregame; awaiting final",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401920924"
+    },
+    "401920906": {
+      "status": "Pregame; awaiting final",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401920906"
+    },
+    "401920436": {
+      "status": "Pregame; awaiting final",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401920436"
+    },
+    "401917954": {
+      "status": "Pregame; awaiting final",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401917954"
+    },
+    "401917549": {
+      "status": "Pregame; awaiting final",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401917549"
+    },
+    "401912214": {
+      "status": "Pregame; awaiting final",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401912214"
+    },
+    "401923305": {
+      "status": "Pregame; awaiting final",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401923305"
+    },
+    "401921186": {
+      "status": "Pregame; awaiting final",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401921186"
+    },
+    "401911242": {
+      "status": "Pregame; awaiting final",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401911242"
+    },
+    "401921065": {
+      "status": "Pregame; awaiting final",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401921065"
+    },
+    "401920954": {
+      "status": "Pregame; awaiting final",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401920954"
+    },
+    "401920197": {
+      "status": "Pregame; awaiting final",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401920197"
+    },
+    "401917550": {
+      "status": "Pregame; awaiting final",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401917550"
+    },
+    "401912232": {
+      "status": "Pregame; awaiting final",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401912232"
+    },
+    "401911381": {
+      "status": "Pregame; awaiting final",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401911381"
+    },
+    "401919851": {
+      "status": "Pregame; awaiting final",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401919851"
+    },
+    "401916308": {
+      "status": "Pregame; awaiting final",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401916308"
+    },
+    "401917551": {
+      "status": "Pregame; awaiting final",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401917551"
+    },
+    "401920536": {
+      "status": "Pregame; awaiting final",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=401920536"
     }
   },
   "verifiedFindings": [
