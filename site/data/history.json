@@ -1750,6 +1750,24 @@
         37
       ],
       "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    },
+    "grade": {
+      "final": [
+        76,
+        67
+      ],
+      "half": [
+        41.0,
+        26.0
+      ],
+      "gameError": 12,
+      "halfError": 8.0,
+      "winnerCorrect": false,
+      "halfWinnerCorrect": true,
+      "spreadResult": "Win",
+      "totalResult": "Loss",
+      "halfSpreadResult": "Win",
+      "halfTotalResult": "Loss"
     }
   },
   "401920533": {
@@ -1809,6 +1827,24 @@
         36
       ],
       "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    },
+    "grade": {
+      "final": [
+        80,
+        75
+      ],
+      "half": [
+        38.0,
+        40.0
+      ],
+      "gameError": 1,
+      "halfError": 3.0,
+      "winnerCorrect": true,
+      "halfWinnerCorrect": false,
+      "spreadResult": "Win",
+      "totalResult": "Win",
+      "halfSpreadResult": "Loss",
+      "halfTotalResult": "Win"
     }
   },
   "401924810": {
@@ -1868,6 +1904,24 @@
         32
       ],
       "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    },
+    "grade": {
+      "final": [
+        57,
+        75
+      ],
+      "half": [
+        34.0,
+        23.0
+      ],
+      "gameError": 9,
+      "halfError": 10.0,
+      "winnerCorrect": false,
+      "halfWinnerCorrect": true,
+      "spreadResult": "Loss",
+      "totalResult": "Win",
+      "halfSpreadResult": "Win",
+      "halfTotalResult": "Loss"
     }
   },
   "401921416": {
@@ -1927,6 +1981,24 @@
         35
       ],
       "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    },
+    "grade": {
+      "final": [
+        55,
+        72
+      ],
+      "half": [
+        25.0,
+        36.0
+      ],
+      "gameError": 13,
+      "halfError": 6.0,
+      "winnerCorrect": true,
+      "halfWinnerCorrect": true,
+      "spreadResult": "Win",
+      "totalResult": "Loss",
+      "halfSpreadResult": "Win",
+      "halfTotalResult": "Loss"
     }
   },
   "401929288": {
@@ -1986,6 +2058,24 @@
         40
       ],
       "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    },
+    "grade": {
+      "final": [
+        85,
+        88
+      ],
+      "half": [
+        26.0,
+        37.0
+      ],
+      "gameError": 13,
+      "halfError": 16.0,
+      "winnerCorrect": true,
+      "halfWinnerCorrect": true,
+      "spreadResult": "Win",
+      "totalResult": "Win",
+      "halfSpreadResult": "Win",
+      "halfTotalResult": "Loss"
     }
   },
   "401921827": {
@@ -2045,6 +2135,24 @@
         43
       ],
       "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    },
+    "grade": {
+      "final": [
+        56,
+        111
+      ],
+      "half": [
+        28.0,
+        51.0
+      ],
+      "gameError": 17,
+      "halfError": 7.0,
+      "winnerCorrect": true,
+      "halfWinnerCorrect": true,
+      "spreadResult": "Loss",
+      "totalResult": "Loss",
+      "halfSpreadResult": "Loss",
+      "halfTotalResult": "Loss"
     }
   },
   "401929181": {
@@ -2104,6 +2212,24 @@
         38
       ],
       "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    },
+    "grade": {
+      "final": [
+        61,
+        81
+      ],
+      "half": [
+        30.0,
+        42.0
+      ],
+      "gameError": 10,
+      "halfError": 2.0,
+      "winnerCorrect": true,
+      "halfWinnerCorrect": true,
+      "spreadResult": "Win",
+      "totalResult": "Loss",
+      "halfSpreadResult": "Win",
+      "halfTotalResult": "Win"
     }
   },
   "401921224": {
@@ -2163,6 +2289,24 @@
         32
       ],
       "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    },
+    "grade": {
+      "final": [
+        59,
+        75
+      ],
+      "half": [
+        23.0,
+        38.0
+      ],
+      "gameError": 2,
+      "halfError": 3.0,
+      "winnerCorrect": true,
+      "halfWinnerCorrect": null,
+      "spreadResult": "Loss",
+      "totalResult": "Loss",
+      "halfSpreadResult": "Loss",
+      "halfTotalResult": "Loss"
     }
   },
   "401919786": {
@@ -2222,6 +2366,24 @@
         32
       ],
       "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    },
+    "grade": {
+      "final": [
+        90,
+        86
+      ],
+      "half": [
+        34.0,
+        32.0
+      ],
+      "gameError": 38,
+      "halfError": 3.0,
+      "winnerCorrect": false,
+      "halfWinnerCorrect": false,
+      "spreadResult": "Loss",
+      "totalResult": "Loss",
+      "halfSpreadResult": "Loss",
+      "halfTotalResult": "Win"
     }
   },
   "401921717": {
@@ -2281,6 +2443,24 @@
         41
       ],
       "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    },
+    "grade": {
+      "final": [
+        63,
+        75
+      ],
+      "half": [
+        24.0,
+        31.0
+      ],
+      "gameError": 24,
+      "halfError": 24.0,
+      "winnerCorrect": true,
+      "halfWinnerCorrect": true,
+      "spreadResult": "Loss",
+      "totalResult": "Loss",
+      "halfSpreadResult": "Loss",
+      "halfTotalResult": "Loss"
     }
   },
   "401928468": {
@@ -2340,6 +2520,24 @@
         32
       ],
       "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    },
+    "grade": {
+      "final": [
+        78,
+        70
+      ],
+      "half": [
+        35.0,
+        41.0
+      ],
+      "gameError": 3,
+      "halfError": 6.0,
+      "winnerCorrect": true,
+      "halfWinnerCorrect": false,
+      "spreadResult": "Win",
+      "totalResult": "Win",
+      "halfSpreadResult": "Loss",
+      "halfTotalResult": "Win"
     }
   },
   "401924738": {
@@ -2378,6 +2576,22 @@
       "spreadGap": 1.5,
       "totalDirection": "Over",
       "totalGap": 3.5
+    },
+    "grade": {
+      "final": [
+        66,
+        68
+      ],
+      "half": [
+        28.0,
+        34.0
+      ],
+      "gameError": 21,
+      "halfError": 11.0,
+      "winnerCorrect": true,
+      "halfWinnerCorrect": true,
+      "spreadResult": "Loss",
+      "totalResult": "Loss"
     }
   },
   "401920542": {
@@ -2437,6 +2651,24 @@
         40
       ],
       "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    },
+    "grade": {
+      "final": [
+        88,
+        69
+      ],
+      "half": [
+        36.0,
+        41.0
+      ],
+      "gameError": 0,
+      "halfError": 0.0,
+      "winnerCorrect": false,
+      "halfWinnerCorrect": true,
+      "spreadResult": "Win",
+      "totalResult": "Win",
+      "halfSpreadResult": "Win",
+      "halfTotalResult": "Win"
     }
   },
   "401902282": {
@@ -2496,6 +2728,24 @@
         42
       ],
       "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    },
+    "grade": {
+      "final": [
+        56,
+        92
+      ],
+      "half": [
+        22.0,
+        41.0
+      ],
+      "gameError": 5,
+      "halfError": 11.0,
+      "winnerCorrect": true,
+      "halfWinnerCorrect": true,
+      "spreadResult": "Loss",
+      "totalResult": "Loss",
+      "halfSpreadResult": "Loss",
+      "halfTotalResult": "Loss"
     }
   },
   "401921417": {
@@ -2555,6 +2805,24 @@
         34
       ],
       "projectedAt": "2026-11-27T18:29:14.775179+00:00"
+    },
+    "grade": {
+      "final": [
+        89,
+        86
+      ],
+      "half": [
+        34.0,
+        18.0
+      ],
+      "gameError": 29,
+      "halfError": 20.0,
+      "winnerCorrect": true,
+      "halfWinnerCorrect": true,
+      "spreadResult": "Win",
+      "totalResult": "Loss",
+      "halfSpreadResult": "Loss",
+      "halfTotalResult": "Loss"
     }
   },
   "401920774": {
@@ -2593,6 +2861,22 @@
       "spreadGap": 0.5,
       "totalDirection": "Over",
       "totalGap": 2.5
+    },
+    "grade": {
+      "final": [
+        75,
+        49
+      ],
+      "half": [
+        41.0,
+        23.0
+      ],
+      "gameError": 17,
+      "halfError": 4.0,
+      "winnerCorrect": false,
+      "halfWinnerCorrect": null,
+      "spreadResult": "Win",
+      "totalResult": "Loss"
     }
   },
   "401920532": {
@@ -2652,6 +2936,24 @@
         38
       ],
       "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    },
+    "grade": {
+      "final": [
+        88,
+        73
+      ],
+      "half": [
+        40.0,
+        35.0
+      ],
+      "gameError": 4,
+      "halfError": 1.0,
+      "winnerCorrect": true,
+      "halfWinnerCorrect": null,
+      "spreadResult": "Win",
+      "totalResult": "Win",
+      "halfSpreadResult": "Win",
+      "halfTotalResult": "Win"
     }
   },
   "401921818": {
@@ -2690,6 +2992,22 @@
       "spreadGap": 9.5,
       "totalDirection": "Under",
       "totalGap": 4.5
+    },
+    "grade": {
+      "final": [
+        61,
+        97
+      ],
+      "half": [
+        28.0,
+        51.0
+      ],
+      "gameError": 7,
+      "halfError": 8.0,
+      "winnerCorrect": true,
+      "halfWinnerCorrect": true,
+      "spreadResult": "Win",
+      "totalResult": "Loss"
     }
   },
   "401912213": {
@@ -2728,6 +3046,22 @@
       "spreadGap": 0.5,
       "totalDirection": "Over",
       "totalGap": 3.5
+    },
+    "grade": {
+      "final": [
+        62,
+        64
+      ],
+      "half": [
+        32.0,
+        36.0
+      ],
+      "gameError": 21,
+      "halfError": 8.0,
+      "winnerCorrect": true,
+      "halfWinnerCorrect": true,
+      "spreadResult": "Win",
+      "totalResult": "Loss"
     }
   },
   "401911212": {
@@ -2766,6 +3100,22 @@
       "spreadGap": 2.5,
       "totalDirection": "Under",
       "totalGap": 3.5
+    },
+    "grade": {
+      "final": [
+        51,
+        91
+      ],
+      "half": [
+        23.0,
+        47.0
+      ],
+      "gameError": 5,
+      "halfError": 0.0,
+      "winnerCorrect": true,
+      "halfWinnerCorrect": true,
+      "spreadResult": "Loss",
+      "totalResult": "Win"
     }
   },
   "401929283": {
@@ -2825,6 +3175,24 @@
         34
       ],
       "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    },
+    "grade": {
+      "final": [
+        70,
+        59
+      ],
+      "half": [
+        27.0,
+        28.0
+      ],
+      "gameError": 19,
+      "halfError": 17.0,
+      "winnerCorrect": true,
+      "halfWinnerCorrect": false,
+      "spreadResult": "Loss",
+      "totalResult": "Loss",
+      "halfSpreadResult": "Win",
+      "halfTotalResult": "Loss"
     }
   },
   "401924845": {
@@ -2884,6 +3252,24 @@
         37
       ],
       "projectedAt": "2026-11-27T18:29:14.775179+00:00"
+    },
+    "grade": {
+      "final": [
+        54,
+        82
+      ],
+      "half": [
+        28.0,
+        35.0
+      ],
+      "gameError": 7,
+      "halfError": 7.0,
+      "winnerCorrect": true,
+      "halfWinnerCorrect": true,
+      "spreadResult": "Win",
+      "totalResult": "Loss",
+      "halfSpreadResult": "Win",
+      "halfTotalResult": "Loss"
     }
   },
   "401921718": {
@@ -2943,6 +3329,24 @@
         38
       ],
       "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    },
+    "grade": {
+      "final": [
+        76,
+        73
+      ],
+      "half": [
+        27.0,
+        35.0
+      ],
+      "gameError": 17,
+      "halfError": 18.0,
+      "winnerCorrect": true,
+      "halfWinnerCorrect": false,
+      "spreadResult": "Win",
+      "totalResult": "Loss",
+      "halfSpreadResult": "Win",
+      "halfTotalResult": "Loss"
     }
   },
   "401909789": {
@@ -3002,6 +3406,24 @@
         41
       ],
       "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    },
+    "grade": {
+      "final": [
+        50,
+        65
+      ],
+      "half": [
+        23.0,
+        29.0
+      ],
+      "gameError": 43,
+      "halfError": 24.0,
+      "winnerCorrect": true,
+      "halfWinnerCorrect": true,
+      "spreadResult": "Win",
+      "totalResult": "Win",
+      "halfSpreadResult": "Win",
+      "halfTotalResult": "Loss"
     }
   },
   "401920810": {
@@ -3061,6 +3483,24 @@
         39
       ],
       "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    },
+    "grade": {
+      "final": [
+        76,
+        78
+      ],
+      "half": [
+        40.0,
+        37.0
+      ],
+      "gameError": 2,
+      "halfError": 1.0,
+      "winnerCorrect": true,
+      "halfWinnerCorrect": false,
+      "spreadResult": "Win",
+      "totalResult": "Win",
+      "halfSpreadResult": "Loss",
+      "halfTotalResult": "Win"
     }
   },
   "401920382": {
@@ -3120,6 +3560,24 @@
         42
       ],
       "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    },
+    "grade": {
+      "final": [
+        61,
+        70
+      ],
+      "half": [
+        27.0,
+        34.0
+      ],
+      "gameError": 25,
+      "halfError": 15.0,
+      "winnerCorrect": true,
+      "halfWinnerCorrect": true,
+      "spreadResult": "Win",
+      "totalResult": "Loss",
+      "halfSpreadResult": "Win",
+      "halfTotalResult": "Loss"
     }
   },
   "401927366": {
@@ -3179,6 +3637,24 @@
         41
       ],
       "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    },
+    "grade": {
+      "final": [
+        71,
+        88
+      ],
+      "half": [
+        34.0,
+        33.0
+      ],
+      "gameError": 0,
+      "halfError": 8.0,
+      "winnerCorrect": true,
+      "halfWinnerCorrect": false,
+      "spreadResult": "Win",
+      "totalResult": "Win",
+      "halfSpreadResult": "Loss",
+      "halfTotalResult": "Loss"
     }
   },
   "401920541": {
@@ -3238,6 +3714,24 @@
         37
       ],
       "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    },
+    "grade": {
+      "final": [
+        98,
+        69
+      ],
+      "half": [
+        47.0,
+        30.0
+      ],
+      "gameError": 7,
+      "halfError": 0.0,
+      "winnerCorrect": true,
+      "halfWinnerCorrect": true,
+      "spreadResult": "Loss",
+      "totalResult": "Loss",
+      "halfSpreadResult": "Loss",
+      "halfTotalResult": "Win"
     }
   },
   "401913531": {
@@ -3297,6 +3791,24 @@
         46
       ],
       "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    },
+    "grade": {
+      "final": [
+        76,
+        116
+      ],
+      "half": [
+        43.0,
+        56.0
+      ],
+      "gameError": 22,
+      "halfError": 17.0,
+      "winnerCorrect": true,
+      "halfWinnerCorrect": true,
+      "spreadResult": "Loss",
+      "totalResult": "Loss",
+      "halfSpreadResult": "Win",
+      "halfTotalResult": "Loss"
     }
   },
   "401911030": {
@@ -3356,6 +3868,24 @@
         44
       ],
       "projectedAt": "2026-11-27T15:08:38.229203+00:00"
+    },
+    "grade": {
+      "final": [
+        57,
+        93
+      ],
+      "half": [
+        21.0,
+        44.0
+      ],
+      "gameError": 13,
+      "halfError": 13.0,
+      "winnerCorrect": true,
+      "halfWinnerCorrect": true,
+      "spreadResult": "Loss",
+      "totalResult": "Loss",
+      "halfSpreadResult": "Loss",
+      "halfTotalResult": "Loss"
     }
   },
   "401921185": {
