@@ -104,9 +104,16 @@ function render(board, history) {
     window.history.replaceState(null,'','#'+id);
     show(game,history);
   });
-  const receipts = Object.values(history).sort((a,b) => { const day = tip => new Intl.DateTimeFormat('en-CA',{timeZone:'America/Chicago',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date(tip)); return day(b.tip).localeCompare(day(a.tip)) || new Date(a.tip)-new Date(b.tip); });
+  // Include eligible current-board forecasts not yet archived; never overwrite original receipts.
+  const receiptView = {...history};
+  for (const game of board.matchups) {
+    if (receiptView[game.id] || !game.projection || !board.captured || !game.tip) continue;
+    if (!(Date.parse(board.captured) < Date.parse(game.tip))) continue;
+    receiptView[game.id] = {tip:game.tip,captured:board.captured,names:game.teams.map(t=>t.name),projection:game.projection,pendingArchive:true};
+  }
+  const receipts = Object.values(receiptView).sort((a,b) => { const day = tip => new Intl.DateTimeFormat('en-CA',{timeZone:'America/Chicago',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date(tip)); return day(b.tip).localeCompare(day(a.tip)) || new Date(a.tip)-new Date(b.tip); });
   $('records').innerHTML = table(['Matchup','Tip (CT)','Saved (CT)','1H forecast','Game forecast','1H Final','Full final','Winner grade','ATS','Total'],
-    receipts.map(r => [r.names.map((name, idx) => r.projection?.full?.[idx] != null ? `${name} (${r.projection.full[idx]})` : name).join(' vs. '),new Intl.DateTimeFormat('en-CA',{timeZone:'America/Chicago'}).format(new Date(r.tip))+' '+formatTime(r.tip),formatTime(r.captured),scoreTotal(r.projection.half),scoreTotal(r.projection.full),scoreTotal(r.grade?.half),r.grade?.final.join('–'),
+    receipts.map(r => [r.names.map((name, idx) => r.projection?.full?.[idx] != null ? `${name} (${r.projection.full[idx]})` : name).join(' vs. '),new Intl.DateTimeFormat('en-CA',{timeZone:'America/Chicago'}).format(new Date(r.tip))+' '+formatTime(r.tip),formatTime(r.captured)+(r.pendingArchive?' (not archived)':''),scoreTotal(r.projection.half),scoreTotal(r.projection.full),scoreTotal(r.grade?.half),r.grade?.final?.join('–'),
       r.grade?.winnerCorrect == null ? null : r.grade.winnerCorrect ? 'Correct' : 'Miss',r.grade?.spreadResult,r.grade?.totalResult]));
   $('methodology').innerHTML = `<p>${link('CBS schedule',board.scheduleSource)} · ${link('Bart Torvik team ratings',board.ratingSource)}. ESPN supplies the player box scores and final scores. RotoWire supplies depth-chart projections and availability where found. Availability remains unconfirmed unless a source explicitly confirms it.</p>
     <p>Player averages are per appearance in the available season box scores. Last-five logs run oldest to newest. Blank entries indicate no recorded appearance or an unavailable metric. Minutes blend recent and season minutes, with reduced weight for a player missing the previous game and zero minutes when reported out. Game-time-decision minutes assume the player participates.</p>
